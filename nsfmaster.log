@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  25 JUL 2014 10:25
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  25 JUL 2014 11:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -374,7 +374,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 
+l.49 
       [1
 
 
@@ -383,20 +383,21 @@ Missing character: There is no Š in font cmr10!
 Missing character: There is no Š in font cmr10!
 Missing character: There is no Š in font cmr10!
 Missing character: There is no Š in font cmr10!
-Missing character: There is no Õ in font cmr10!
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.90 
-      [2] [3]
+l.61 
+      [2]
+Missing character: There is no Õ in font cmr10!
+ [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 117.
+(Font)              <10.95> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 117.
+(Font)              <8> on input line 113.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 117.
-) [4]
+(Font)              <6> on input line 113.
+ [4]) [5]
 \openout2 = `nsfref.aux'.
 
  (./nsfref.tex (./nsfmaster.bblpdfTeX warning (ext4): destination with the same
@@ -670,24 +671,25 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
  ) 
 Here is how much of TeX's memory you used:
- 6677 strings out of 493488
- 97895 string characters out of 3141326
- 199467 words of memory out of 3000000
- 9744 multiletter control sequences out of 15000+200000
- 8411 words of font info for 30 fonts, out of 3000000 for 9000
+ 6687 strings out of 493488
+ 98005 string characters out of 3141326
+ 200467 words of memory out of 3000000
+ 9745 multiletter control sequences out of 15000+200000
+ 8770 words of font info for 31 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,12n,35p,2105b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
-r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
-/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (21 pages, 162941 bytes).
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
+r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on nsfmaster.pdf (22 pages, 180137 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 250 compressed objects within 3 object streams
- 113 named destinations out of 1000 (max. 500000)
+ 300 PDF objects out of 1000 (max. 8388607)
+ 265 compressed objects within 3 object streams
+ 121 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
