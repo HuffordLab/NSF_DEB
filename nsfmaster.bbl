@@ -1,0 +1,131 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chia et~al.(2012)Chia, Song, Bradbury, Costich, de~Leon, Doebley,
+  Elshire, Gaut, Geller, Glaubitz, Gore, Guill, Holland, Hufford, Lai, Li, Liu,
+  Lu, McCombie, Nelson, Poland, Prasanna, Pyhajarvi, Rong, Sekhon, Sun,
+  Tenaillon, Tian, Wang, Xu, Zhang, Kaeppler, Ross-Ibarra, McMullen, Buckler,
+  Zhang, Xu, and Ware]{Chia2012a}
+JM~Chia, C~Song, PJ~Bradbury, D~Costich, N~de~Leon, J~Doebley, RJ~Elshire,
+  B~Gaut, L~Geller, JC~Glaubitz, M~Gore, KE~Guill, J~Holland, MB~Hufford,
+  J~Lai, M~Li, X~Liu, Y~Lu, R~McCombie, R~Nelson, J~Poland, BM~Prasanna,
+  T~Pyhajarvi, T~Rong, RS~Sekhon, Q~Sun, MI~Tenaillon, F~Tian, J~Wang, X~Xu,
+  Z~Zhang, SM~Kaeppler, J~Ross-Ibarra, MD~McMullen, ES~Buckler, G~Zhang, Y~Xu,
+  and D~Ware.
+\newblock Maize hapmap2 identifies extant variation from a genome in flux.
+\newblock \emph{Nat Genet}, 44\penalty0 (7):\penalty0 803--807, 2012.
+
+\bibitem[Fang et~al.(2012)Fang, Pyhajarvi, Weber, Dawe, Glaubitz, Gonzalez~Jde,
+  Ross-Ibarra, Doebley, Morrell, and Ross-Ibarra]{Fang2012a}
+Z~Fang, T~Pyhajarvi, AL~Weber, RK~Dawe, JC~Glaubitz, J~Gonzalez~Jde,
+  C~Ross-Ibarra, J~Doebley, PL~Morrell, and J~Ross-Ibarra.
+\newblock Megabase-scale inversion polymorphism in the wild ancestor of maize.
+\newblock \emph{Genetics}, 191\penalty0 (3):\penalty0 883--894, 2012.
+
+\bibitem[Hufford et~al.(2012{\natexlab{a}})Hufford, Bilinski, Pyhajarvi, and
+  Ross-Ibarra]{Hufford2012}
+MB~Hufford, P~Bilinski, T~Pyhajarvi, and J~Ross-Ibarra.
+\newblock Teosinte as a model system for population and ecological genomics.
+\newblock \emph{Trends Genet}, 28\penalty0 (12):\penalty0 606--615,
+  2012{\natexlab{a}}.
+
+\bibitem[Hufford et~al.(2012{\natexlab{b}})Hufford, Xu, van Heerwaarden,
+  Pyhajarvi, Chia, Cartwright, Elshire, Glaubitz, Guill, Kaeppler, Lai,
+  Morrell, Shannon, Song, Springer, Swanson-Wagner, Tiffin, Wang, Zhang,
+  Doebley, McMullen, Ware, Buckler, Yang, and Ross-Ibarra]{Hufford2012b}
+MB~Hufford, X~Xu, J~van Heerwaarden, T~Pyhajarvi, JM~Chia, RA~Cartwright,
+  RJ~Elshire, JC~Glaubitz, KE~Guill, SM~Kaeppler, J~Lai, PL~Morrell,
+  LM~Shannon, C~Song, NM~Springer, RA~Swanson-Wagner, P~Tiffin, J~Wang,
+  G~Zhang, J~Doebley, MD~McMullen, D~Ware, ES~Buckler, S~Yang, and
+  J~Ross-Ibarra.
+\newblock Comparative population genomics of maize domestication and
+  improvement.
+\newblock \emph{Nat Genet}, 44\penalty0 (7):\penalty0 808--811,
+  2012{\natexlab{b}}.
+
+\bibitem[Hufford et~al.(2013)Hufford, Lubinksy, Pyhajarvi, Devengenzo,
+  Ellstrand, and Ross-Ibarra]{Hufford2013}
+MB~Hufford, P~Lubinksy, T~Pyhajarvi, MT~Devengenzo, NC~Ellstrand, and
+  J~Ross-Ibarra.
+\newblock The genomic signature of crop-wild introgression in maize.
+\newblock \emph{PLoS Genetics}, 9\penalty0 (5):\penalty0 e1003477, 2013.
+
+\bibitem[Kanizay et~al.(2013)Kanizay, Pyhajarvi, Lowry, Hufford, Peterson,
+  Ross-Ibarra, and Dawe]{Kanizay2013}
+LB~Kanizay, T~Pyhajarvi, EG~Lowry, MB~Hufford, DG~Peterson, J~Ross-Ibarra, and
+  RK~Dawe.
+\newblock Diversity and abundance of the abnormal chromosome 10 meiotic drive
+  complex in zea mays.
+\newblock \emph{Heredity (Edinb)}, 110\penalty0 (6):\penalty0 570--577, 2013.
+
+\bibitem[Melters et~al.(2013)Melters, Bradnam, Young, Telis, May, Ruby, Sebra,
+  Peluso, Eid, Rank, Garcia, Derisi, Smith, Tobias, Ross-Ibarra, Korf, and
+  Chan]{Melters2013a}
+DP~Melters, KR~Bradnam, HA~Young, N~Telis, MR~May, JG~Ruby, R~Sebra, P~Peluso,
+  J~Eid, D~Rank, JF~Garcia, JL~Derisi, T~Smith, C~Tobias, J~Ross-Ibarra,
+  I~Korf, and SW~Chan.
+\newblock Comparative analysis of tandem repeats from hundreds of species
+  reveals unique insights into centromere evolution.
+\newblock \emph{Genome Biol}, 14\penalty0 (1):\penalty0 R10, 2013.
+
+\bibitem[Mezmouk and Ross-Ibarra(2014)]{Mezmouk2014}
+S~Mezmouk and J~Ross-Ibarra.
+\newblock The pattern and distribution of deleterious mutations in maize.
+\newblock \emph{G3 (Bethesda)}, 4\penalty0 (1):\penalty0 163--171, 2014.
+
+\bibitem[Peiffer et~al.(2013)Peiffer, Flint-Garcia, De~Leon, McMullen,
+  Kaeppler, and Buckler]{peiffer2013genetic}
+JA~Peiffer, SA~Flint-Garcia, N~De~Leon, MD~McMullen, SM~Kaeppler, and
+  ES~Buckler.
+\newblock The genetic architecture of maize stalk strength.
+\newblock \emph{PloS one}, 8\penalty0 (6):\penalty0 e67066, 2013.
+
+\bibitem[Peiffer et~al.(2014)Peiffer, Romay, Gore, Flint-Garcia, Zhang,
+  Millard, Gardner, McMullen, Holland, Bradbury, and Buckler]{Peiffer2014}
+JA~Peiffer, MC~Romay, MA~Gore, SA~Flint-Garcia, Z~Zhang, MJ~Millard,
+  CA~Gardner, MD~McMullen, JB~Holland, PJ~Bradbury, and ES~Buckler.
+\newblock The genetic architecture of maize height.
+\newblock \emph{Genetics}, 2014.
+
+\bibitem[Pyhajarvi et~al.(2013)Pyhajarvi, Hufford, Mezmouk, and
+  Ross-Ibarra]{Pyhajarvi2013}
+T~Pyhajarvi, MB~Hufford, S~Mezmouk, and J~Ross-Ibarra.
+\newblock Complex patterns of local adaptation in teosinte.
+\newblock \emph{Genome Biol Evol}, 5\penalty0 (9):\penalty0 1594--1609, 2013.
+
+\bibitem[Romay et~al.(2013)Romay, Millard, Glaubitz, Peiffer, Swarts,
+  Casstevens, Elshire, Acharya, Mitchell, Flint-Garcia, McMullen, Holland,
+  Buckler, and Gardner]{Romay2013}
+MC~Romay, MJ~Millard, JC~Glaubitz, JA~Peiffer, KL~Swarts, TM~Casstevens,
+  RJ~Elshire, CB~Acharya, SE~Mitchell, SA~Flint-Garcia, MD~McMullen,
+  JB~Holland, ES~Buckler, and CA~Gardner.
+\newblock Comprehensive genotyping of the usa national maize inbred seed bank.
+\newblock \emph{Genome Biol}, 14\penalty0 (6):\penalty0 R55, 2013.
+
+\bibitem[Shi et~al.(2010)Shi, Wolf, Burke, Presting, Ross-Ibarra, and
+  Dawe]{Shi2010a}
+J~Shi, SE~Wolf, JM~Burke, GG~Presting, J~Ross-Ibarra, and RK~Dawe.
+\newblock Widespread gene conversion in centromere cores.
+\newblock \emph{PLoS Biol}, 8\penalty0 (3):\penalty0 e1000327, 2010.
+
+\bibitem[Sood et~al.(2014)Sood, Flint-Garcia, Willcox, and
+  Holland]{sood2014mining}
+S~Sood, S~Flint-Garcia, MC~Willcox, and JB~Holland.
+\newblock Mining natural variation for maize improvement: Selection on
+  phenotypes and genes.
+\newblock In \emph{Genomics of Plant Genetic Resources}, pages 615--649.
+  Springer, 2014.
+
+\bibitem[Wills et~al.(2013)Wills, Whipple, Takuno, Kursel, Shannon,
+  Ross-Ibarra, and Doebley]{wills2013many}
+DM~Wills, CJ~Whipple, S~Takuno, LE~Kursel, LM~Shannon, J~Ross-Ibarra, and
+  JF~Doebley.
+\newblock From many, one: Genetic control of prolificacy during maize
+  domestication.
+\newblock \emph{PLoS Genetics}, 9\penalty0 (6):\penalty0 e1003604, 2013.
+
+\end{thebibliography}

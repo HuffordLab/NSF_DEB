@@ -1,0 +1,87 @@
+
+%%%%%%%%% MASTER -- compiles the 4 sections
+
+\documentclass[11pt,letterpaper]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{plain}                                                      %%
+%%%%%%%%%% EXACT 1in MARGINS %%%%%%%                                   %%
+\setlength{\textwidth}{6.5in}     %%                                   %%
+\setlength{\oddsidemargin}{0in}   %% (It is recommended that you       %%
+\setlength{\evensidemargin}{0in}  %%  not change these parameters,     %%
+\setlength{\textheight}{8.5in}    %%  at the risk of having your       %%
+\setlength{\topmargin}{0in}       %%  proposal dismissed on the basis  %%
+\setlength{\headheight}{0in}      %%  of incorrect formatting!!!)      %%
+\setlength{\headsep}{0in}         %%                                   %%
+\setlength{\footskip}{.5in}       %%                                   %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                   %%
+\newcommand{\required}[1]{\section*{\hfil #1\hfil}}                    %%
+\renewcommand{\refname}{\hfil References Cited\hfil}                   %%
+\bibliographystyle{plainnat}                                              %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%PUT YOUR MACROS HERE
+\usepackage{hyperref} %for urls
+\usepackage{graphicx} %for includegraphics
+\usepackage[table]{xcolor} %for table line color alteration
+\usepackage{enumitem}  %fancy enumerated lists
+\usepackage{wrapfig} %wrap text around figures
+\usepackage[leftcaption]{sidecap} % side captions
+\sidecaptionvpos{figure}{c} %position side caption
+
+\usepackage[round,authoryear]{natbib} %biblio format!
+\usepackage{multirow} %multirow tables
+\usepackage{booktabs} %funky tabs in tables
+
+%\includeonly{NSFsumm}
+
+\begin{document}
+%%%%%%%%%%%%% Project Summary max 1 page must include Intellectual Merit and Broader Impact) %%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\include{nsfsumm}% Max 1 page
+%%%%%%%%%%%%% Project Description max 15 pages (usually) Must include discussion of recent Prior (last 5 years) %%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\include{nsfdesc}% 
+%%%%%%%%%%%%% References no page limit %%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\include{nsfref}
+%%%%%%%%%%%%% Biosketch  Max two pages per person%%%%%%%%%%%%%%%%%%%
+%\setcounter{page}{1}
+%\include{nsfbio}
+%%%%%%%%%%%%% Budget Justification  no more than 3 pages %%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\include{nsfbudget}% 
+%%%%%%%%%%%%% Facilities Max 1 page %%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\include{nsffacilities}
+\clearpage
+\newpage
+% Supplementary Documents
+%%%%%%%%%%%%% Data Management 1 page REQUIRED
+\setcounter{page}{1}
+\include{nsfdataman}% 
+%%%%%%%%% Postdoc Mentoring is required if funding requests postdocs MAX 2 pages?
+\setcounter{page}{1}
+\include{nsfpdoc}% 
+
+%%%%%%%%%sharing a1 - 3 page max
+ \setcounter{page}{1}
+ \include{a1_sharing}%
+
+%%%%%%%%%Management plan - 5 page max
+ \setcounter{page}{1}
+ \include{a2_management}%
+
+%%%%%%%%%Undergrad and grad mentoring plan - 1 page max
+ \setcounter{page}{1}
+ \include{a6_gradundergrad}%
+
+%%%%%%%%%REU Description if requesting REU - 3 page max
+% \setcounter{page}{1}
+% \include{nsfSREU}%
+
+
+
+
+
+\end{document}
