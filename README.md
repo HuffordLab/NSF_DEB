@@ -1,13 +1,5 @@
-PGRP
+NSF-DEB
 ====
-
-### To Do
-
-
-### Status of sections:
-
-##### Postdoc Mentoring Plan (nsfpdoc.tex): **Done**
-OK: JRI MBH
 
 ### Warning
 Still updating files; many are carried over from PGRP proposal.  New text is currently being imported.
