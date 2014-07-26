@@ -1,4 +1,4 @@
-\begin{thebibliography}{25}
+\begin{thebibliography}{35}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -37,8 +37,18 @@ The Heliconius~Genome Consortium.
 \newblock \doi{10.1038/nature11041}.
 \newblock URL \url{http://dx.doi.org/10.1038/nature11041}.
 
+\bibitem[Delmore et~al.(2013)Delmore, Brenneman, Lei, Bailey, Brelsford, Louis,
+  and Johnson]{Delmore2013}
+K.~E. Delmore, R.~A. Brenneman, R.~Lei, C.~A. Bailey, A.~Brelsford, E.~E.
+  Louis, and S.~E. Johnson.
+\newblock Clinal variation in a brown lemur (eulemur spp.) hybrid zone:
+  Combining morphological, genetic and climatic data to examine stability.
+\newblock \emph{Journal of Evolutionary Biology}, 26\penalty0 (8):\penalty0
+  1677--1690, 2013.
+\newblock \doi{10.1111/jeb.12178}.
+
 \bibitem[Fang et~al.(2012)Fang, Pyhajarvi, Weber, Dawe, Glaubitz, Gonzalez~Jde,
-  Ross-Ibarra, Doebley, Morrell, and Ross-Ibarra]{Fang2012a}
+  Ross-Ibarra, Doebley, Morrell, and Ross-Ibarra]{Fang2012}
 Z~Fang, T~Pyhajarvi, AL~Weber, RK~Dawe, JC~Glaubitz, J~Gonzalez~Jde,
   C~Ross-Ibarra, J~Doebley, PL~Morrell, and J~Ross-Ibarra.
 \newblock Megabase-scale inversion polymorphism in the wild ancestor of maize.
@@ -50,6 +60,22 @@ K~Fukunaga, J~Hill, Y~Vigouroux, Y~Matsuoka, J~Sanchez, KJ~Liu, ES~Buckler, and
   J~Doebley.
 \newblock Genetic diversity and population structure of teosinte.
 \newblock \emph{Genetics}, 169\penalty0 (4):\penalty0 2241--2254, 2005.
+
+\bibitem[Galindo et~al.(2013)Galindo, Martínez-Fernández, Rodríguez-Ramilo,
+  and Rolán-Alvarez]{Galindo2013}
+J.~Galindo, M.~Martínez-Fernández, S.~T. Rodríguez-Ramilo, and
+  E.~Rolán-Alvarez.
+\newblock The role of local ecology during hybridization at the initial stages
+  of ecological speciation in a marine snail.
+\newblock \emph{Journal of Evolutionary Biology}, 26\penalty0 (7):\penalty0
+  1472--1487, 2013.
+\newblock \doi{10.1111/jeb.12152}.
+
+\bibitem[Harrison(1993)]{HarrisonHybridZone}
+R.~G. Harrison.
+\newblock Hybrids and hybrid zones: Historical perspective.
+\newblock In R.~G. Harrison, editor, \emph{Hybrid Zones and the Evolutionary
+  Process}, pages 3--12. Oxford University Press, New York, 1993.
 
 \bibitem[Hufford et~al.(2012{\natexlab{a}})Hufford, Bilinski, Pyhajarvi, and
   Ross-Ibarra]{Hufford2012}
@@ -87,6 +113,12 @@ LB~Kanizay, T~Pyhajarvi, EG~Lowry, MB~Hufford, DG~Peterson, J~Ross-Ibarra, and
   complex in zea mays.
 \newblock \emph{Heredity (Edinb)}, 110\penalty0 (6):\penalty0 570--577, 2013.
 
+\bibitem[Kruuk et~al.(1999)Kruuk, Baird, Gale, and Barton]{Kruuk1999}
+L.~E.~B. Kruuk, S.~J.~E. Baird, K.~S. Gale, and N.~H. Barton.
+\newblock A comparison of multilocus clines maintained by environmental
+  adaptation or by selection against hybrids.
+\newblock \emph{Genetics}, 153\penalty0 (4):\penalty0 1959--1971, 1999.
+
 \bibitem[Matsuoka et~al.(2002)Matsuoka, Vigouroux, Goodman, Sanchez, Buckler,
   and Doebley]{Matsuoka2002}
 Y~Matsuoka, Y~Vigouroux, MM~Goodman, G~J Sanchez, E~Buckler, and J~Doebley.
@@ -110,6 +142,16 @@ S~Mezmouk and J~Ross-Ibarra.
 \newblock The pattern and distribution of deleterious mutations in maize.
 \newblock \emph{G3 (Bethesda)}, 4\penalty0 (1):\penalty0 163--171, 2014.
 
+\bibitem[Parchman et~al.(2013)Parchman, Gompert, Braun, Brumfield, McDonald,
+  Uy, Zhang, Jarvis, Schlinger, and Buerkle]{Parchman2013}
+T.~L. Parchman, Z.~Gompert, M.~J. Braun, R.~T. Brumfield, D.~B. McDonald,
+  J.~A.~C. Uy, G.~Zhang, E.~D. Jarvis, B.~A. Schlinger, and C.~A. Buerkle.
+\newblock The genomic consequences of adaptive divergence and reproductive
+  isolation between species of manakins.
+\newblock \emph{Molecular Ecology}, 22\penalty0 (12):\penalty0 3304--3317,
+  2013.
+\newblock \doi{10.1111/mec.12201}.
+
 \bibitem[Peiffer et~al.(2013)Peiffer, Flint-Garcia, De~Leon, McMullen,
   Kaeppler, and Buckler]{peiffer2013genetic}
 JA~Peiffer, SA~Flint-Garcia, N~De~Leon, MD~McMullen, SM~Kaeppler, and
@@ -124,11 +166,27 @@ JA~Peiffer, MC~Romay, MA~Gore, SA~Flint-Garcia, Z~Zhang, MJ~Millard,
 \newblock The genetic architecture of maize height.
 \newblock \emph{Genetics}, 2014.
 
+\bibitem[Pritchard et~al.(2000)Pritchard, Stephens, and
+  Donnelly]{Pritchard2000}
+Jonathan~K. Pritchard, Matthew Stephens, and Peter Donnelly.
+\newblock Inference of population structure using multilocus genotype data.
+\newblock \emph{Genetics}, 155\penalty0 (2):\penalty0 945--959, 2000.
+
 \bibitem[Pyhajarvi et~al.(2013)Pyhajarvi, Hufford, Mezmouk, and
   Ross-Ibarra]{Pyhajarvi2013}
 T~Pyhajarvi, MB~Hufford, S~Mezmouk, and J~Ross-Ibarra.
 \newblock Complex patterns of local adaptation in teosinte.
 \newblock \emph{Genome Biol Evol}, 5\penalty0 (9):\penalty0 1594--1609, 2013.
+
+\bibitem[RASMUSSEN et~al.(2012)RASMUSSEN, ROBINSON, HONTELA, and
+  HEATH]{Rasmussen2012}
+JOSEPH~B. RASMUSSEN, MICHAEL~D. ROBINSON, ALICE HONTELA, and DANIEL~D. HEATH.
+\newblock Metabolic traits of westslope cutthroat trout, introduced rainbow
+  trout and their hybrids in an ecotonal hybrid zone along an elevation
+  gradient.
+\newblock \emph{Biological Journal of the Linnean Society}, 105\penalty0
+  (1):\penalty0 56--72, 2012.
+\newblock \doi{10.1111/j.1095-8312.2011.01768.x}.
 
 \bibitem[Renaut et~al.(2013)Renaut, Grassa, Yeaman, Moyers, Lai, Kane, Bowers,
   Burke, and Rieseberg]{renaut2013}
@@ -161,6 +219,27 @@ J~Shi, SE~Wolf, JM~Burke, GG~Presting, J~Ross-Ibarra, and RK~Dawe.
 \newblock Widespread gene conversion in centromere cores.
 \newblock \emph{PLoS Biol}, 8\penalty0 (3):\penalty0 e1000327, 2010.
 
+\bibitem[Smith et~al.(2013{\natexlab{a}})Smith, Hale, Gay, Kearney, Austin,
+  Parris, and Melville]{Smith2013a}
+Katie~L. Smith, Joshua~M. Hale, Laurène Gay, Michael Kearney, Jeremy~J.
+  Austin, Kirsten~M. Parris, and Jane Melville.
+\newblock Spatio-temporal changes in the structure of an australian frog hybrid
+  zone: A 40-year perspective.
+\newblock \emph{Evolution}, 67\penalty0 (12):\penalty0 3442--3454,
+  2013{\natexlab{a}}.
+\newblock \doi{10.1111/evo.12140}.
+
+\bibitem[Smith et~al.(2013{\natexlab{b}})Smith, Hale, Kearney, Austin, and
+  Melville]{Smith2013b}
+Katie~L. Smith, Joshua~M. Hale, Michael~R. Kearney, Jeremy~J. Austin, and Jane
+  Melville.
+\newblock Molecular patterns of introgression in a classic hybrid zone between
+  the australian tree frogs, litoria ewingii and l. paraewingi: evidence of a
+  tension zone.
+\newblock \emph{Molecular Ecology}, 22\penalty0 (7):\penalty0 1869--1883,
+  2013{\natexlab{b}}.
+\newblock \doi{10.1111/mec.12176}.
+
 \bibitem[Sood et~al.(2014)Sood, Flint-Garcia, Willcox, and
   Holland]{sood2014mining}
 S~Sood, S~Flint-Garcia, MC~Willcox, and JB~Holland.
@@ -191,6 +270,12 @@ Y~Vigouroux, JC~Glaubitz, Y~Matsuoka, MM~Goodman, G~J Sanchez, and J~Doebley.
 \newblock Population structure and genetic diversity of new world maize races
   assessed by dna microsatellites.
 \newblock \emph{Am J Bot}, 95\penalty0 (10):\penalty0 1240--1253, 2008.
+
+\bibitem[Wilkes(1977)]{WIlkes1977}
+H.~G. Wilkes.
+\newblock Hybridization of maize and teosinte, in mexico and guatemala and the
+  improvement of maize.
+\newblock \emph{Economic Botany}, 31\penalty0 (3):\penalty0 254--293, 1977.
 
 \bibitem[Wills et~al.(2013)Wills, Whipple, Takuno, Kursel, Shannon,
   Ross-Ibarra, and Doebley]{wills2013many}
