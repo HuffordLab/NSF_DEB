@@ -1,9 +1,19 @@
-\begin{thebibliography}{15}
+\begin{thebibliography}{21}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Anderson and Stebbins(1954)]{Anderson1954}
+E.~Anderson and Jr. Stebbins, G.~L.
+\newblock Hybridization as an evolutionary stimulus.
+\newblock \emph{Evolution}, 8\penalty0 (4):\penalty0 378--388, 1954.
+
+\bibitem[Anderson(1948)]{Anderson1948}
+Edgar Anderson.
+\newblock Hybridization of the habitat.
+\newblock \emph{Evolution}, 2\penalty0 (1):\penalty0 1--9, 1948.
 
 \bibitem[Chia et~al.(2012)Chia, Song, Bradbury, Costich, de~Leon, Doebley,
   Elshire, Gaut, Geller, Glaubitz, Gore, Guill, Holland, Hufford, Lai, Li, Liu,
@@ -18,6 +28,14 @@ JM~Chia, C~Song, PJ~Bradbury, D~Costich, N~de~Leon, J~Doebley, RJ~Elshire,
   and D~Ware.
 \newblock Maize hapmap2 identifies extant variation from a genome in flux.
 \newblock \emph{Nat Genet}, 44\penalty0 (7):\penalty0 803--807, 2012.
+
+\bibitem[Consortium(2012)]{consortiumbutterfly2012}
+The Heliconius~Genome Consortium.
+\newblock Butterfly genome reveals promiscuous exchange of mimicry adaptations
+  among species.
+\newblock \emph{Nature}, 487\penalty0 (7405):\penalty0 94--98, 2012.
+\newblock \doi{10.1038/nature11041}.
+\newblock URL \url{http://dx.doi.org/10.1038/nature11041}.
 
 \bibitem[Fang et~al.(2012)Fang, Pyhajarvi, Weber, Dawe, Glaubitz, Gonzalez~Jde,
   Ross-Ibarra, Doebley, Morrell, and Ross-Ibarra]{Fang2012a}
@@ -97,6 +115,16 @@ T~Pyhajarvi, MB~Hufford, S~Mezmouk, and J~Ross-Ibarra.
 \newblock Complex patterns of local adaptation in teosinte.
 \newblock \emph{Genome Biol Evol}, 5\penalty0 (9):\penalty0 1594--1609, 2013.
 
+\bibitem[Renaut et~al.(2013)Renaut, Grassa, Yeaman, Moyers, Lai, Kane, Bowers,
+  Burke, and Rieseberg]{renaut2013}
+S.~Renaut, C.~J. Grassa, S.~Yeaman, B.~T. Moyers, Z.~Lai, N.~C. Kane, J.~E.
+  Bowers, J.~M. Burke, and L.~H. Rieseberg.
+\newblock Genomic islands of divergence are not affected by geography of
+  speciation in sunflowers.
+\newblock \emph{Nature Communications}, 4:\penalty0 1827--, 2013.
+\newblock \doi{10.1038/ncomms2833}.
+\newblock URL \url{http://dx.doi.org/10.1038/ncomms2833}.
+
 \bibitem[Romay et~al.(2013)Romay, Millard, Glaubitz, Peiffer, Swarts,
   Casstevens, Elshire, Acharya, Mitchell, Flint-Garcia, McMullen, Holland,
   Buckler, and Gardner]{Romay2013}
@@ -119,6 +147,22 @@ S~Sood, S~Flint-Garcia, MC~Willcox, and JB~Holland.
   phenotypes and genes.
 \newblock In \emph{Genomics of Plant Genetic Resources}, pages 615--649.
   Springer, 2014.
+
+\bibitem[Staubach et~al.(2012)Staubach, Lorenc, Messer, Tang, Petrov, and
+  Tautz]{staubach2012}
+Fabian Staubach, Anna Lorenc, Philipp~W. Messer, Kun Tang, Dmitri~A. Petrov,
+  and Diethard Tautz.
+\newblock Genome patterns of selection and introgression of haplotypes in
+  natural populations of the house mouse (<italic>mus musculus</italic>).
+\newblock \emph{PLoS Genet}, 8\penalty0 (8):\penalty0 e1002891, 08 2012.
+\newblock \doi{10.1371/journal.pgen.1002891}.
+\newblock URL \url{http://dx.doi.org/10.1371%2Fjournal.pgen.1002891}.
+
+\bibitem[Stebbins(1959)]{Stebbins1959}
+G.~Ledyard Stebbins.
+\newblock The role of hybridization in evolution.
+\newblock \emph{Proceedings of the American Philosophical Society},
+  103\penalty0 (2):\penalty0 231--251, 1959.
 
 \bibitem[Wills et~al.(2013)Wills, Whipple, Takuno, Kursel, Shannon,
   Ross-Ibarra, and Doebley]{wills2013many}
