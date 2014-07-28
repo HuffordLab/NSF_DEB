@@ -1,4 +1,4 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{42}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -81,20 +81,39 @@ J.~Galindo, M.~Mart√≠nez-Fern√°ndez, S.~T. Rodr√≠guez-Ramilo, and
   1472--1487, 2013.
 \newblock \doi{10.1111/jeb.12152}.
 
+\bibitem[Grobman et~al.(2012)Grobman, Bonavia, Dillehay, Piperno, Iriarte, and
+  Holst]{Grobman2012}
+Alexander Grobman, Duccio Bonavia, Tom~D. Dillehay, Dolores~R. Piperno, José
+  Iriarte, and Irene Holst.
+\newblock Preceramic maize from paredones and huaca prieta, peru.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 109\penalty0
+  (5):\penalty0 1755--1759, 2012.
+\newblock \doi{10.1073/pnas.1120270109}.
+\newblock URL \url{http://www.pnas.org/content/109/5/1755.abstract}.
+
 \bibitem[Harrison(1993)]{HarrisonHybridZone}
 R.~G. Harrison.
 \newblock Hybrids and hybrid zones: Historical perspective.
 \newblock In R.~G. Harrison, editor, \emph{Hybrid Zones and the Evolutionary
   Process}, pages 3--12. Oxford University Press, New York, 1993.
 
-\bibitem[Hufford et~al.(2012{\natexlab{a}})Hufford, Bilinski, Pyhajarvi, and
+\bibitem[Hufford et~al.(2012{\natexlab{a}})Hufford, Mart{\'\i}nez-Meyer, Gaut,
+  Eguiarte, and Tenaillon]{hufford2012inferences}
+Matthew~B Hufford, Enrique Mart{\'\i}nez-Meyer, Brandon~S Gaut, Luis~E
+  Eguiarte, and Maud~I Tenaillon.
+\newblock Inferences from the historical distribution of wild and domesticated
+  maize provide ecological and evolutionary insight.
+\newblock \emph{PloS one}, 7\penalty0 (11):\penalty0 e47659,
+  2012{\natexlab{a}}.
+
+\bibitem[Hufford et~al.(2012{\natexlab{b}})Hufford, Bilinski, Pyhajarvi, and
   Ross-Ibarra]{Hufford2012}
 MB~Hufford, P~Bilinski, T~Pyhajarvi, and J~Ross-Ibarra.
 \newblock Teosinte as a model system for population and ecological genomics.
 \newblock \emph{Trends Genet}, 28\penalty0 (12):\penalty0 606--615,
-  2012{\natexlab{a}}.
+  2012{\natexlab{b}}.
 
-\bibitem[Hufford et~al.(2012{\natexlab{b}})Hufford, Xu, van Heerwaarden,
+\bibitem[Hufford et~al.(2012{\natexlab{c}})Hufford, Xu, van Heerwaarden,
   Pyhajarvi, Chia, Cartwright, Elshire, Glaubitz, Guill, Kaeppler, Lai,
   Morrell, Shannon, Song, Springer, Swanson-Wagner, Tiffin, Wang, Zhang,
   Doebley, McMullen, Ware, Buckler, Yang, and Ross-Ibarra]{Hufford2012b}
@@ -106,7 +125,7 @@ MB~Hufford, X~Xu, J~van Heerwaarden, T~Pyhajarvi, JM~Chia, RA~Cartwright,
 \newblock Comparative population genomics of maize domestication and
   improvement.
 \newblock \emph{Nat Genet}, 44\penalty0 (7):\penalty0 808--811,
-  2012{\natexlab{b}}.
+  2012{\natexlab{c}}.
 
 \bibitem[Hufford et~al.(2013)Hufford, Lubinksy, Pyhajarvi, Devengenzo,
   Ellstrand, and Ross-Ibarra]{Hufford2013}
@@ -175,6 +194,15 @@ JA~Peiffer, MC~Romay, MA~Gore, SA~Flint-Garcia, Z~Zhang, MJ~Millard,
   CA~Gardner, MD~McMullen, JB~Holland, PJ~Bradbury, and ES~Buckler.
 \newblock The genetic architecture of maize height.
 \newblock \emph{Genetics}, 2014.
+
+\bibitem[Piperno and Flannery(2001)]{Piperno2001}
+D.~R. Piperno and K.~V. Flannery.
+\newblock The earliest archaeological maize (zea mays l.) from highland mexico:
+  New accelerator mass spectrometry dates and their implications.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 98\penalty0
+  (4):\penalty0 2101--2103, 2001.
+\newblock \doi{10.1073/pnas.98.4.2101}.
+\newblock URL \url{http://www.pnas.org/content/98/4/2101.abstract}.
 
 \bibitem[Poelstra et~al.(2014)Poelstra, Vijay, Bossu, Lantz, Ryll, Müller,
   Baglione, Unneberg, Wikelski, Grabherr, and Wolf]{Poelstra2014}
