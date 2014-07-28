@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 JUL 2014 15:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 JUL 2014 18:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -396,17 +396,17 @@ l.53 \begin{adjustwidth}{5em}{5em}
 <to be read again> 
                    \relax 
 l.66 
-      [2] [3] <structure.jpg, id=160, 547.8066pt x 134.4222pt>
+      [2] [3] <structure.jpg, id=161, 547.8066pt x 134.4222pt>
 File: structure.jpg Graphic file (type jpg)
 
 <use structure.jpg>
-Package pdftex.def Info: structure.jpg used on input line 84.
+Package pdftex.def Info: structure.jpg used on input line 86.
 (pdftex.def)             Requested size: 446.2658pt x 109.50902pt.
  [4 <./structure.jpg>]
 Missing character: There is no Õ in font cmr10!
  [5]
 Missing character: There is no Õ in font cmr10!
- [6]) [7] [8]
+ [6] [7]) [8]
 \openout2 = `nsfref.aux'.
 
  (./nsfref.tex
@@ -725,7 +725,7 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (27 pages, 302924 bytes).
+Output written on nsfmaster.pdf (27 pages, 303457 bytes).
 PDF statistics:
  461 PDF objects out of 1000 (max. 8388607)
  416 compressed objects within 5 object streams
