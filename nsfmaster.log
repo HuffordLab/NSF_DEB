@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  26 JUL 2014 17:37
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 JUL 2014 10:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -395,8 +395,9 @@ l.51 \begin{adjustwidth}{5em}{5em}
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 
-      [2] <structure.jpg, id=119, 547.8066pt x 134.4222pt>
+l.63 B
+      oth wild and domesticated \emph{Zea} offer exciting opportunities to s...
+[2] <structure.jpg, id=128, 547.8066pt x 134.4222pt>
 File: structure.jpg Graphic file (type jpg)
  <use structure.jpg>
 Package pdftex.def Info: structure.jpg used on input line 67.
@@ -422,26 +423,35 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.116 ...ruuk, Baird, Gale, and Barton]{Kruuk1999}
-                                                   [1
+l.117 
+       [1
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
+]
+Missing character: There is no Ÿ in font cmr10!
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.211   Gaut]{Ross-Ibarra2009a}
-                                [2]
+l.220 
+       [2]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¨ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
-))pdfTeX warning (ext4): destination with the same identifier (name{page.3}) ha
-s been already used, duplicate ignored
+Missing character: There is no ’ in font cmr10!
+Missing character: There is no Õ in font cmr10!
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.320 
+       [3]))pdfTeX warning (ext4): destination with the same identifier (name{p
+age.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.49 \include{nsfref}
-                      [3]
+                      [4]
 \openout2 = `nsfbudget.aux'.
 
  (./nsfbudget.tex
@@ -699,13 +709,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 7002 strings out of 493488
- 102574 string characters out of 3141326
- 294890 words of memory out of 3000000
- 10025 multiletter control sequences out of 15000+200000
+ 7014 strings out of 493488
+ 102809 string characters out of 3141326
+ 295263 words of memory out of 3000000
+ 10034 multiletter control sequences out of 15000+200000
  9129 words of font info for 32 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,12n,35p,2123b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,35p,2123b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
@@ -714,10 +724,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (25 pages, 296540 bytes).
+Output written on nsfmaster.pdf (26 pages, 298801 bytes).
 PDF statistics:
- 413 PDF objects out of 1000 (max. 8388607)
- 371 compressed objects within 4 object streams
- 146 named destinations out of 1000 (max. 500000)
+ 431 PDF objects out of 1000 (max. 8388607)
+ 388 compressed objects within 4 object streams
+ 149 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

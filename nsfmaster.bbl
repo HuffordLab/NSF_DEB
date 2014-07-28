@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{38}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -14,6 +14,16 @@ E.~Anderson and Jr. Stebbins, G.~L.
 Edgar Anderson.
 \newblock Hybridization of the habitat.
 \newblock \emph{Evolution}, 2\penalty0 (1):\penalty0 1--9, 1948.
+
+\bibitem[Barb et~al.(2014)Barb, Bowers, Renaut, Rey, Knapp, Rieseberg, and
+  Burke]{Barb2014}
+Jessica~G. Barb, John~E. Bowers, Sebastien Renaut, Juan~I. Rey, Steven~J.
+  Knapp, Loren~H. Rieseberg, and John~M. Burke.
+\newblock Chromosomal evolution and patterns of introgression in helianthus.
+\newblock \emph{Genetics}, 2014.
+\newblock \doi{10.1534/genetics.114.165548}.
+\newblock URL
+  \url{http://www.genetics.org/content/early/2014/04/24/genetics.114.165548.abstract}.
 
 \bibitem[Chia et~al.(2012)Chia, Song, Bradbury, Costich, de~Leon, Doebley,
   Elshire, Gaut, Geller, Glaubitz, Gore, Guill, Holland, Hufford, Lai, Li, Liu,
@@ -166,6 +176,16 @@ JA~Peiffer, MC~Romay, MA~Gore, SA~Flint-Garcia, Z~Zhang, MJ~Millard,
 \newblock The genetic architecture of maize height.
 \newblock \emph{Genetics}, 2014.
 
+\bibitem[Poelstra et~al.(2014)Poelstra, Vijay, Bossu, Lantz, Ryll, Müller,
+  Baglione, Unneberg, Wikelski, Grabherr, and Wolf]{Poelstra2014}
+J.~W. Poelstra, N.~Vijay, C.~M. Bossu, H.~Lantz, B.~Ryll, I.~Müller,
+  V.~Baglione, P.~Unneberg, M.~Wikelski, M.~G. Grabherr, and J.~B.~W. Wolf.
+\newblock The genomic landscape underlying phenotypic integrity in the face of
+  gene flow in crows.
+\newblock \emph{Science}, 344\penalty0 (6190):\penalty0 1410--1414, 2014.
+\newblock \doi{10.1126/science.1253226}.
+\newblock URL \url{http://www.sciencemag.org/content/344/6190/1410.abstract}.
+
 \bibitem[Pritchard et~al.(2000)Pritchard, Stephens, and
   Donnelly]{Pritchard2000}
 Jonathan~K. Pritchard, Matthew Stephens, and Peter Donnelly.
@@ -247,6 +267,19 @@ S~Sood, S~Flint-Garcia, MC~Willcox, and JB~Holland.
   phenotypes and genes.
 \newblock In \emph{Genomics of Plant Genetic Resources}, pages 615--649.
   Springer, 2014.
+
+\bibitem[Soria-Carrasco et~al.(2014)Soria-Carrasco, Gompert, Comeault, Farkas,
+  Parchman, Johnston, Buerkle, Feder, Bast, Schwander, Egan, Crespi, and
+  Nosil]{SoriaCarrasco2014}
+Víctor Soria-Carrasco, Zachariah Gompert, Aaron~A. Comeault, Timothy~E. Farkas,
+  Thomas~L. Parchman, J.~Spencer Johnston, C.~Alex Buerkle, Jeffrey~L. Feder,
+  Jens Bast, Tanja Schwander, Scott~P. Egan, Bernard~J. Crespi, and Patrik
+  Nosil.
+\newblock Stick insect genomes reveal natural selection’s role in parallel
+  speciation.
+\newblock \emph{Science}, 344\penalty0 (6185):\penalty0 738--742, 2014.
+\newblock \doi{10.1126/science.1252136}.
+\newblock URL \url{http://www.sciencemag.org/content/344/6185/738.abstract}.
 
 \bibitem[Staubach et~al.(2012)Staubach, Lorenc, Messer, Tang, Petrov, and
   Tautz]{staubach2012}
