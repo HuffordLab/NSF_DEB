@@ -1,4 +1,4 @@
-\begin{thebibliography}{38}
+\begin{thebibliography}{39}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -304,11 +304,16 @@ Y~Vigouroux, JC~Glaubitz, Y~Matsuoka, MM~Goodman, G~J Sanchez, and J~Doebley.
   assessed by dna microsatellites.
 \newblock \emph{Am J Bot}, 95\penalty0 (10):\penalty0 1240--1253, 2008.
 
-\bibitem[Wilkes(1977)]{WIlkes1977}
+\bibitem[Wilkes(1977)]{Wilkes1977}
 H.~G. Wilkes.
 \newblock Hybridization of maize and teosinte, in mexico and guatemala and the
   improvement of maize.
 \newblock \emph{Economic Botany}, 31\penalty0 (3):\penalty0 254--293, 1977.
+
+\bibitem[Wilkes(1967)]{wilkes1967teosinte}
+HG~Wilkes.
+\newblock Teosinte: the closest relative of maize.
+\newblock \emph{Teosinte: the closest relative of maize.}, 1967.
 
 \bibitem[Wills et~al.(2013)Wills, Whipple, Takuno, Kursel, Shannon,
   Ross-Ibarra, and Doebley]{wills2013many}
