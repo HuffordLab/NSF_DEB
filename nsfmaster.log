@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 JUL 2014 18:37
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  28 JUL 2014 20:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -402,15 +402,21 @@ File: structure.jpg Graphic file (type jpg)
 <use structure.jpg>
 Package pdftex.def Info: structure.jpg used on input line 86.
 (pdftex.def)             Requested size: 446.2658pt x 109.50902pt.
- [4 <./structure.jpg>]
+ <pies.pdf, id=166, 370.38374pt x 195.73125pt>
+File: pies.pdf Graphic file (type pdf)
+
+<use pies.pdf>
+Package pdftex.def Info: pies.pdf used on input line 93.
+(pdftex.def)             Requested size: 281.85585pt x 148.94843pt.
+ [4 <./structure.jpg> <./pies.pdf>]
 Missing character: There is no Õ in font cmr10!
  [5]
 Missing character: There is no Õ in font cmr10!
  [6] [7]) [8]
 \openout2 = `nsfref.aux'.
 
- (./nsfref.tex
-(./nsfmaster.bbl
+
+(./nsfref.tex (./nsfmaster.bbl
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -710,10 +716,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 7034 strings out of 493488
- 103206 string characters out of 3141326
- 295512 words of memory out of 3000000
- 10047 multiletter control sequences out of 15000+200000
+ 7043 strings out of 493488
+ 103297 string characters out of 3141326
+ 295577 words of memory out of 3000000
+ 10054 multiletter control sequences out of 15000+200000
  9129 words of font info for 32 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,12n,35p,2105b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -725,10 +731,10 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
 r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (27 pages, 303818 bytes).
+Output written on nsfmaster.pdf (27 pages, 362150 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 416 compressed objects within 5 object streams
- 156 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 444 compressed objects within 5 object streams
+ 157 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
