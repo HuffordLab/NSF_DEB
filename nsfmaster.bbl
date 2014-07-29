@@ -1,4 +1,4 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{43}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -324,6 +324,16 @@ G.~Ledyard Stebbins.
 \newblock The role of hybridization in evolution.
 \newblock \emph{Proceedings of the American Philosophical Society},
   103\penalty0 (2):\penalty0 231--251, 1959.
+
+\bibitem[van Heerwaarden et~al.(2011)van Heerwaarden, Doebley, Briggs,
+  Glaubitz, Goodman, de~Jesus Sanchez~Gonzalez, and
+  Ross-Ibarra]{vanheerwaarden2011a}
+J~van Heerwaarden, J~Doebley, WH~Briggs, JC~Glaubitz, MM~Goodman, J~de~Jesus
+  Sanchez~Gonzalez, and J~Ross-Ibarra.
+\newblock Genetic signals of origin, spread, and introgression in a large
+  sample of maize landraces.
+\newblock \emph{Proc Natl Acad Sci U S A}, 108\penalty0 (3):\penalty0
+  1088--1092, 2011.
 
 \bibitem[Vigouroux et~al.(2008)Vigouroux, Glaubitz, Matsuoka, Goodman, Sanchez,
   and Doebley]{Vigouroux2008a}
