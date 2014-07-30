@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 15:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 15:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -273,7 +273,8 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 )
 (./nsfmaster.aux (./nsfsumm.aux) (./nsfdesc.aux) (./nsfref.aux)
 (./nsfbudget.aux) (./nsffacilities.aux) (./nsfdataman.aux) (./nsfpdoc.aux)
-(./a1_sharing.aux) (./a2_management.aux
+No file a1_sharing.aux.
+(./a2_management.aux
 
 LaTeX Warning: Label `tab:timeline' multiply defined.
 
@@ -737,10 +738,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 7071 strings out of 493488
- 103652 string characters out of 3141326
- 295977 words of memory out of 3000000
- 10064 multiletter control sequences out of 15000+200000
+ 7068 strings out of 493488
+ 103609 string characters out of 3141326
+ 295612 words of memory out of 3000000
+ 10063 multiletter control sequences out of 15000+200000
  9481 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,12n,35p,2105b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -754,7 +755,7 @@ r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (29 pages, 397619 bytes).
+Output written on nsfmaster.pdf (29 pages, 397477 bytes).
 PDF statistics:
  563 PDF objects out of 1000 (max. 8388607)
  501 compressed objects within 6 object streams
