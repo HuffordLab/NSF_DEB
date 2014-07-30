@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 16:25
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,7 +432,7 @@ Missing character: There is no ’ in font cmr10!
 Missing character: There is no Õ in font cmr10!
  [8] [9]
 Missing character: There is no Õ in font cmr10!
- [10]) [11]
+ [10] [11]) [12]
 \openout2 = `nsfref.aux'.
 
  (./nsfref.tex (./nsfmaster.bbl
@@ -736,10 +736,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 7070 strings out of 493488
- 103640 string characters out of 3141326
- 296200 words of memory out of 3000000
- 10062 multiletter control sequences out of 15000+200000
+ 7073 strings out of 493488
+ 103663 string characters out of 3141326
+ 296173 words of memory out of 3000000
+ 10064 multiletter control sequences out of 15000+200000
  9481 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,12n,35p,2105b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -753,10 +753,10 @@ r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (30 pages, 889620 bytes).
+Output written on nsfmaster.pdf (31 pages, 890519 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 540 compressed objects within 6 object streams
- 175 named destinations out of 1000 (max. 500000)
+ 615 PDF objects out of 1000 (max. 8388607)
+ 544 compressed objects within 6 object streams
+ 176 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
