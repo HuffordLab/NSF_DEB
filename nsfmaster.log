@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 09:56
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 11:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -402,10 +402,10 @@ File: structure.jpg Graphic file (type jpg)
 <use structure.jpg>
 Package pdftex.def Info: structure.jpg used on input line 91.
 (pdftex.def)             Requested size: 446.2658pt x 109.50902pt.
- [4 <./structure.jpg>]
-<pies.pdf, id=192, 370.38374pt x 195.73125pt>
+ <pies.pdf, id=181, 370.38374pt x 195.73125pt>
 File: pies.pdf Graphic file (type pdf)
- <use pies.pdf>
+
+<use pies.pdf>
 Package pdftex.def Info: pies.pdf used on input line 100.
 (pdftex.def)             Requested size: 281.85585pt x 148.94843pt.
 
@@ -418,7 +418,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-
+[4] [5 <./structure.jpg> <./pies.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
@@ -428,11 +428,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-[5 <./pies.pdf>]
+[6]
 Missing character: There is no Õ in font cmr10!
- [6] [7]
+ [7] [8]
 Missing character: There is no Õ in font cmr10!
- [8] [9]) [10]
+ [9]) [10]
 \openout2 = `nsfref.aux'.
 
  (./nsfref.tex (./nsfmaster.bbl
@@ -752,10 +752,10 @@ r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (29 pages, 393926 bytes).
+Output written on nsfmaster.pdf (29 pages, 394987 bytes).
 PDF statistics:
- 545 PDF objects out of 1000 (max. 8388607)
- 484 compressed objects within 5 object streams
+ 546 PDF objects out of 1000 (max. 8388607)
+ 485 compressed objects within 5 object streams
  170 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
