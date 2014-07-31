@@ -13,44 +13,44 @@ A level-1 auxiliary file: a1_sharing.aux
 A level-1 auxiliary file: a2_management.aux
 A level-1 auxiliary file: a6_gradundergrad.aux
 Database file #1: references.bib
-You've used 44 entries,
+You've used 47 entries,
             2773 wiz_defined-function locations,
-            923 strings with 16511 characters,
-and the built_in function-call counts, 31129 in all, are:
-= -- 2518
-> -- 2905
+            947 strings with 17362 characters,
+and the built_in function-call counts, 33105 in all, are:
+= -- 2681
+> -- 3076
 < -- 11
-+ -- 975
-- -- 928
-* -- 3115
-:= -- 5039
-add.period$ -- 159
-call.type$ -- 44
-change.case$ -- 441
-chr.to.int$ -- 41
-cite$ -- 88
-duplicate$ -- 934
-empty$ -- 1801
-format.name$ -- 978
-if$ -- 6245
++ -- 1032
+- -- 982
+* -- 3318
+:= -- 5357
+add.period$ -- 171
+call.type$ -- 47
+change.case$ -- 468
+chr.to.int$ -- 44
+cite$ -- 94
+duplicate$ -- 997
+empty$ -- 1924
+format.name$ -- 1035
+if$ -- 6643
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 44
-newline$ -- 253
-num.names$ -- 178
-pop$ -- 790
+missing$ -- 47
+newline$ -- 271
+num.names$ -- 190
+pop$ -- 835
 preamble$ -- 1
-purify$ -- 397
+purify$ -- 421
 quote$ -- 0
-skip$ -- 852
+skip$ -- 905
 stack$ -- 0
-substring$ -- 1024
-swap$ -- 64
+substring$ -- 1093
+swap$ -- 68
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 484
+type$ -- 517
 warning$ -- 0
-while$ -- 184
+while$ -- 196
 width$ -- 0
-write$ -- 629
+write$ -- 674

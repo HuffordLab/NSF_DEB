@@ -1,4 +1,4 @@
-\begin{thebibliography}{44}
+\begin{thebibliography}{47}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -57,16 +57,24 @@ K.~E. Delmore, R.~A. Brenneman, R.~Lei, C.~A. Bailey, A.~Brelsford, E.~E.
   1677--1690, 2013.
 \newblock \doi{10.1111/jeb.12178}.
 
-\bibitem[Díez et~al.(2013)Díez, Gaut, Meca, Scheinvar, Montes-Hernandez,
-  Eguiarte, and Tenaillon]{Diez2013}
-Concepción~M. Díez, Brandon~S. Gaut, Esteban Meca, Enrique Scheinvar, Salvador
-  Montes-Hernandez, Luis~E. Eguiarte, and Maud~I. Tenaillon.
+\bibitem[D\'{i}ez et~al.(2013)D\'{i}ez, Gaut, Meca, Scheinvar,
+  Montes-Hernandez, Eguiarte, and Tenaillon]{Diez2013}
+Concepción~M. D\'{i}ez, Brandon~S. Gaut, Esteban Meca, Enrique Scheinvar,
+  Salvador Montes-Hernandez, Luis~E. Eguiarte, and Maud~I. Tenaillon.
 \newblock Genome size variation in wild and cultivated maize along altitudinal
   gradients.
 \newblock \emph{New Phytologist}, 199\penalty0 (1):\penalty0 264--276, 2013.
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1111/nph.12247}.
 \newblock URL \url{http://dx.doi.org/10.1111/nph.12247}.
+
+\bibitem[Elshire et~al.(2011)Elshire, Glaubitz, Sun, Poland, Kawamoto, Buckler,
+  and Mitchell]{Elshire2011}
+RJ~Elshire, JC~Glaubitz, Q~Sun, JA~Poland, K~Kawamoto, ES~Buckler, and
+  SE~Mitchell.
+\newblock A robust, simple genotyping-by-sequencing (gbs) approach for high
+  diversity species.
+\newblock \emph{PLoS One}, 6\penalty0 (5):\penalty0 e19379, 2011.
 
 \bibitem[Fang et~al.(2012)Fang, Pyhajarvi, Weber, Dawe, Glaubitz, Gonzalez~Jde,
   Ross-Ibarra, Doebley, Morrell, and Ross-Ibarra]{Fang2012}
@@ -91,6 +99,16 @@ J.~Galindo, M.~Mart√≠nez-Fern√°ndez, S.~T. Rodr√≠guez-Ramilo, and
 \newblock \emph{Journal of Evolutionary Biology}, 26\penalty0 (7):\penalty0
   1472--1487, 2013.
 \newblock \doi{10.1111/jeb.12152}.
+
+\bibitem[Glaubitz et~al.(2014)Glaubitz, Casstevens, Lu, Harriman, Elshire, Sun,
+  and Buckler]{Glaubitz2014}
+Jeffrey~C. Glaubitz, Terry~M. Casstevens, Fei Lu, James Harriman, Robert~J.
+  Elshire, Qi~Sun, and Edward~S. Buckler.
+\newblock Tassel-gbs: A high capacity genotyping by sequencing analysis
+  pipeline.
+\newblock \emph{PLoS ONE}, 9\penalty0 (2):\penalty0 e90346, 02 2014.
+\newblock \doi{10.1371/journal.pone.0090346}.
+\newblock URL \url{http://dx.doi.org/10.1371%2Fjournal.pone.0090346}.
 
 \bibitem[Grobman et~al.(2012)Grobman, Bonavia, Dillehay, Piperno, Iriarte, and
   Holst]{Grobman2012}
@@ -271,6 +289,15 @@ MC~Romay, MJ~Millard, JC~Glaubitz, JA~Peiffer, KL~Swarts, TM~Casstevens,
 J~Ross-Ibarra, M~Tenaillon, and BS~Gaut.
 \newblock Historical divergence and gene flow in the genus zea.
 \newblock \emph{Genetics}, 181\penalty0 (4):\penalty0 1399--1413, 2009.
+
+\bibitem[Saghai-Maroof et~al.(1984)Saghai-Maroof, Soliman, Jorgensen, and
+  Allard]{Saghai-Maroof1984}
+M~A Saghai-Maroof, K~M Soliman, R~A Jorgensen, and R~W Allard.
+\newblock Ribosomal dna spacer-length polymorphisms in barley: mendelian
+  inheritance, chromosomal location, and population dynamics.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 81\penalty0
+  (24):\penalty0 8014--8018, 1984.
+\newblock URL \url{http://www.pnas.org/content/81/24/8014.abstract}.
 
 \bibitem[Shi et~al.(2010)Shi, Wolf, Burke, Presting, Ross-Ibarra, and
   Dawe]{Shi2010a}

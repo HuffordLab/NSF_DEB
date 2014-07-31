@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 17:27
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 22:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -427,7 +427,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-Missing character: There is no ’ in font cmr10!
 [7]
 Missing character: There is no Õ in font cmr10!
  [8] [9]
@@ -437,7 +436,6 @@ Missing character: There is no Õ in font cmr10!
 
  (./nsfref.tex (./nsfmaster.bbl
 Missing character: There is no — in font cmr10!
-Missing character: There is no ’ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
 Missing character: There is no Ã in font cmr10!
@@ -446,35 +444,37 @@ Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¡ in font cmr10!
-Missing character: There is no Ž in font cmr10!
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112 ...te, and Tenaillon]{hufford2012inferences}
-                                                   [1
+l.112 
+       [1
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
+]
+Missing character: There is no Ž in font cmr10!
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.217 
+l.212 
        [2]
 Missing character: There is no Ÿ in font cmr10!
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.307 
+       [3]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¨ in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
 Missing character: There is no ’ in font cmr10!
 Missing character: There is no Õ in font cmr10!
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.322 
-       [3]))pdfTeX warning (ext4): destination with the same identifier (name{p
-age.4}) has been already used, duplicate ignored
+))pdfTeX warning (ext4): destination with the same identifier (name{page.4}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.51 \include{nsfref}
@@ -736,13 +736,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 7073 strings out of 493488
- 103663 string characters out of 3141326
- 296173 words of memory out of 3000000
- 10064 multiletter control sequences out of 15000+200000
+ 7085 strings out of 493488
+ 103910 string characters out of 3141326
+ 296457 words of memory out of 3000000
+ 10073 multiletter control sequences out of 15000+200000
  9481 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,12n,35p,2105b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,35p,2105b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
@@ -753,10 +753,10 @@ r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (31 pages, 890519 bytes).
+Output written on nsfmaster.pdf (31 pages, 891734 bytes).
 PDF statistics:
- 615 PDF objects out of 1000 (max. 8388607)
- 544 compressed objects within 6 object streams
- 176 named destinations out of 1000 (max. 500000)
+ 627 PDF objects out of 1000 (max. 8388607)
+ 556 compressed objects within 6 object streams
+ 179 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
