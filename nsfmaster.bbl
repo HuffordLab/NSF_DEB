@@ -1,4 +1,4 @@
-\begin{thebibliography}{50}
+\begin{thebibliography}{51}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -403,6 +403,15 @@ Y~Vigouroux, JC~Glaubitz, Y~Matsuoka, MM~Goodman, G~J Sanchez, and J~Doebley.
 \newblock Population structure and genetic diversity of new world maize races
   assessed by dna microsatellites.
 \newblock \emph{Am J Bot}, 95\penalty0 (10):\penalty0 1240--1253, 2008.
+
+\bibitem[Vitti et~al.(2013)Vitti, Grossman, and Sabeti]{Vitti2013}
+Joseph~J. Vitti, Sharon~R. Grossman, and Pardis~C. Sabeti.
+\newblock Detecting natural selection in genomic data.
+\newblock \emph{Annual Review of Genetics}, 47\penalty0 (1):\penalty0 97--120,
+  2013.
+\newblock \doi{10.1146/annurev-genet-111212-133526}.
+\newblock URL \url{http://dx.doi.org/10.1146/annurev-genet-111212-133526}.
+\newblock PMID: 24274750.
 
 \bibitem[Wilkes(1977)]{Wilkes1977}
 H.~G. Wilkes.
