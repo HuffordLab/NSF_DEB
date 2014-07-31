@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2014 11:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2014 15:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -423,14 +423,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-[7]
-Missing character: There is no Õ in font cmr10!
-
-
-Package natbib Warning: Citation `Price et al. 2009; Lawson 2012' on page 8 und
-efined on input line 147.
-
-[8] [9]
+[7] [8] [9]
 Missing character: There is no Õ in font cmr10!
  [10] [11]) [12]
 \openout2 = `nsfref.aux'.
@@ -459,14 +452,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.212 
-       [2]
+l.211 ...is, Schlinger, and Buerkle]{Parchman2013}
+                                                   [2]
 Missing character: There is no Ÿ in font cmr10!
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.307 
+l.310 
        [3]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¨ in font cmr10!
@@ -474,12 +467,17 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
 Missing character: There is no ’ in font cmr10!
 Missing character: There is no Õ in font cmr10!
-))pdfTeX warning (ext4): destination with the same identifier (name{page.4}) ha
-s been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.412 
+       [4]))pdfTeX warning (ext4): destination with the same identifier (name{p
+age.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.51 \include{nsfref}
-                      [4]
+                      [5]
 \openout2 = `nsfbudget.aux'.
 
  (./nsfbudget.tex
@@ -717,14 +715,12 @@ undefined on input line 91.
 
 
 ]
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
-(./nsfmaster.aux (./nsfsumm.aux) (./nsfdesc.aux) (./nsfref.aux)
-(./nsfbudget.aux) (./nsffacilities.aux) (./nsfdataman.aux) (./nsfpdoc.aux)
-(./a1_sharing.aux) (./a2_management.aux) (./a6_gradundergrad.aux))
+ (./nsfmaster.aux (./nsfsumm.aux)
+(./nsfdesc.aux) (./nsfref.aux) (./nsfbudget.aux) (./nsffacilities.aux)
+(./nsfdataman.aux) (./nsfpdoc.aux) (./a1_sharing.aux) (./a2_management.aux)
+(./a6_gradundergrad.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `nsfmaster.out' has not changed.
@@ -739,13 +735,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 7086 strings out of 493488
- 103942 string characters out of 3141326
- 296457 words of memory out of 3000000
- 10074 multiletter control sequences out of 15000+200000
+ 7097 strings out of 493488
+ 104109 string characters out of 3141326
+ 296722 words of memory out of 3000000
+ 10082 multiletter control sequences out of 15000+200000
  9481 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,12n,35p,2105b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,35p,2105b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
@@ -756,10 +752,10 @@ r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (30 pages, 892268 bytes).
+Output written on nsfmaster.pdf (31 pages, 893093 bytes).
 PDF statistics:
- 625 PDF objects out of 1000 (max. 8388607)
- 555 compressed objects within 6 object streams
- 179 named destinations out of 1000 (max. 500000)
+ 646 PDF objects out of 1000 (max. 8388607)
+ 575 compressed objects within 6 object streams
+ 182 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

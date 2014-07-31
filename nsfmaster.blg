@@ -4,10 +4,6 @@ The top-level auxiliary file: nsfmaster.aux
 The style file: plainnat.bst
 A level-1 auxiliary file: nsfsumm.aux
 A level-1 auxiliary file: nsfdesc.aux
-White space in argument---line 47 of file nsfdesc.aux
- : \citation{Price
- :                 et al. 2009; Lawson 2012}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: nsfref.aux
 A level-1 auxiliary file: nsfbudget.aux
 A level-1 auxiliary file: nsffacilities.aux
@@ -17,45 +13,44 @@ A level-1 auxiliary file: a1_sharing.aux
 A level-1 auxiliary file: a2_management.aux
 A level-1 auxiliary file: a6_gradundergrad.aux
 Database file #1: references.bib
-You've used 47 entries,
+You've used 50 entries,
             2773 wiz_defined-function locations,
-            947 strings with 17362 characters,
-and the built_in function-call counts, 33105 in all, are:
-= -- 2681
-> -- 3076
+            966 strings with 18060 characters,
+and the built_in function-call counts, 35163 in all, are:
+= -- 2852
+> -- 3256
 < -- 11
-+ -- 1032
-- -- 982
-* -- 3318
-:= -- 5357
-add.period$ -- 171
-call.type$ -- 47
-change.case$ -- 468
-chr.to.int$ -- 44
-cite$ -- 94
-duplicate$ -- 997
-empty$ -- 1924
-format.name$ -- 1035
-if$ -- 6643
++ -- 1092
+- -- 1039
+* -- 3531
+:= -- 5689
+add.period$ -- 184
+call.type$ -- 50
+change.case$ -- 496
+chr.to.int$ -- 47
+cite$ -- 100
+duplicate$ -- 1060
+empty$ -- 2049
+format.name$ -- 1095
+if$ -- 7057
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 47
-newline$ -- 271
-num.names$ -- 190
-pop$ -- 835
+missing$ -- 50
+newline$ -- 290
+num.names$ -- 202
+pop$ -- 881
 preamble$ -- 1
-purify$ -- 421
+purify$ -- 446
 quote$ -- 0
-skip$ -- 905
+skip$ -- 959
 stack$ -- 0
-substring$ -- 1093
-swap$ -- 68
+substring$ -- 1168
+swap$ -- 72
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 517
+type$ -- 550
 warning$ -- 0
-while$ -- 196
+while$ -- 208
 width$ -- 0
-write$ -- 674
-(There was 1 error message)
+write$ -- 721
