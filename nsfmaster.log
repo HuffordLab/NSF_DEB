@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2014 17:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2014 18:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -271,13 +271,7 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count109
 \@thisrulewidth=\dimen130
 )
-(./nsfmaster.aux (./nsfsumm.aux) (./nsfdesc.aux) (./nsfref.aux)
-(./nsfbudget.aux) (./nsffacilities.aux) (./nsfdataman.aux) (./nsfpdoc.aux)
-(./a1_sharing.aux) (./a2_management.aux
-
-LaTeX Warning: Label `tab:timeline' multiply defined.
-
-) (./a6_gradundergrad.aux))
+(./nsfmaster.aux)
 \openout1 = `nsfmaster.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
@@ -377,12 +371,64 @@ Missing character: There is no Õ in font cmr10!
 \openout2 = `nsfdesc.aux'.
 
  (./nsfdesc.tex
+
+Package natbib Warning: Citation `Anderson1948' on page 1 undefined on input li
+ne 29.
+
+
+Package natbib Warning: Citation `Anderson1954' on page 1 undefined on input li
+ne 29.
+
+
+Package natbib Warning: Citation `Stebbins1959' on page 1 undefined on input li
+ne 29.
+
+
+Package natbib Warning: Citation `Hufford2013' on page 1 undefined on input lin
+e 29.
+
+
+Package natbib Warning: Citation `renaut2013' on page 1 undefined on input line
+ 29.
+
+
+Package natbib Warning: Citation `consortiumbutterfly2012' on page 1 undefined 
+on input line 29.
+
+
+Package natbib Warning: Citation `staubach2012' on page 1 undefined on input li
+ne 29.
+
+
+Package natbib Warning: Citation `Hufford2012' on page 1 undefined on input lin
+e 31.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 31.
+
+Package natbib Warning: Citation `Ross-Ibarra2009a' on page 1 undefined on inpu
+t line 41.
+
+
+Package natbib Warning: Citation `Fukunaga2005' on page 1 undefined on input li
+ne 41.
+
+
+Package natbib Warning: Citation `Pyhajarvi2013' on page 1 undefined on input l
+ine 41.
+
+
+Package natbib Warning: Citation `Matsuoka2002' on page 1 undefined on input li
+ne 52.
+
+
+Package natbib Warning: Citation `Vigouroux2008a' on page 1 undefined on input 
+line 52.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -391,18 +437,180 @@ l.53 \begin{adjustwidth}{5em}{5em}
                                    [1
 
 
-] [2] [3]
-<structure.jpg, id=170, 547.8066pt x 134.4222pt>
+]
+
+Package natbib Warning: Citation `Anderson1948' on page 2 undefined on input li
+ne 64.
+
+
+Package natbib Warning: Citation `Anderson1954' on page 2 undefined on input li
+ne 64.
+
+
+Package natbib Warning: Citation `Stebbins1959' on page 2 undefined on input li
+ne 64.
+
+
+Package natbib Warning: Citation `HarrisonHybridZone' on page 2 undefined on in
+put line 64.
+
+
+Package natbib Warning: Citation `Delmore2013' on page 2 undefined on input lin
+e 66.
+
+
+Package natbib Warning: Citation `Galindo2013' on page 2 undefined on input lin
+e 66.
+
+
+Package natbib Warning: Citation `Parchman2013' on page 2 undefined on input li
+ne 66.
+
+
+Package natbib Warning: Citation `Smith2013a' on page 2 undefined on input line
+ 66.
+
+
+Package natbib Warning: Citation `Kruuk1999' on page 2 undefined on input line 
+66.
+
+
+Package natbib Warning: Citation `Rasmussen2012' on page 2 undefined on input l
+ine 66.
+
+
+Package natbib Warning: Citation `Smith2013b' on page 2 undefined on input line
+ 66.
+
+
+Package natbib Warning: Citation `Hufford2013' on page 2 undefined on input lin
+e 66.
+
+
+Package natbib Warning: Citation `Barb2014' on page 2 undefined on input line 6
+6.
+
+
+Package natbib Warning: Citation `Poelstra2014' on page 2 undefined on input li
+ne 66.
+
+
+Package natbib Warning: Citation `SoriaCarrasco2014' on page 2 undefined on inp
+ut line 66.
+
+
+Package natbib Warning: Citation `Fukunaga2005' on page 2 undefined on input li
+ne 68.
+
+[2]
+
+Package natbib Warning: Citation `Pyhajarvi2013' on page 3 undefined on input l
+ine 70.
+
+
+Package natbib Warning: Citation `Pyhajarvi2013' on page 3 undefined on input l
+ine 70.
+
+
+Package natbib Warning: Citation `Pyhajarvi2013' on page 3 undefined on input l
+ine 70.
+
+
+Package natbib Warning: Citation `wilkes1967teosinte' on page 3 undefined on in
+put line 72.
+
+
+Package natbib Warning: Citation `Wilkes1977' on page 3 undefined on input line
+ 72.
+
+
+Package natbib Warning: Citation `Ross-Ibarra2009a' on page 3 undefined on inpu
+t line 72.
+
+
+Package natbib Warning: Citation `Matsuoka2002' on page 3 undefined on input li
+ne 72.
+
+
+Package natbib Warning: Citation `Piperno2001' on page 3 undefined on input lin
+e 72.
+
+
+Package natbib Warning: Citation `Grobman2012' on page 3 undefined on input lin
+e 72.
+
+
+Package natbib Warning: Citation `hufford2012inferences' on page 3 undefined on
+ input line 72.
+
+
+Package natbib Warning: Citation `Hufford2013' on page 3 undefined on input lin
+e 74.
+
+
+Package natbib Warning: Citation `Ross-Ibarra2009a' on page 3 undefined on inpu
+t line 76.
+
+[3]
+
+Package natbib Warning: Citation `Ross-Ibarra2009a' on page 4 undefined on inpu
+t line 83.
+
+
+Package natbib Warning: Citation `vanheerwaarden2011a' on page 4 undefined on i
+nput line 83.
+
+
+Package natbib Warning: Citation `Hufford2013' on page 4 undefined on input lin
+e 83.
+
+
+Package natbib Warning: Citation `Pyhajarvi2013' on page 4 undefined on input l
+ine 83.
+
+
+Package natbib Warning: Citation `vanheerwaarden2011a' on page 4 undefined on i
+nput line 83.
+
+
+Package natbib Warning: Citation `Fang2012' on page 4 undefined on input line 8
+3.
+
+
+Package natbib Warning: Citation `Pritchard2000' on page 4 undefined on input l
+ine 87.
+
+
+LaTeX Warning: Reference `fig:structure' on page 4 undefined on input line 87.
+
+<structure.jpg, id=44, 547.8066pt x 134.4222pt>
 File: structure.jpg Graphic file (type jpg)
  <use structure.jpg>
 Package pdftex.def Info: structure.jpg used on input line 91.
 (pdftex.def)             Requested size: 446.2658pt x 109.50902pt.
 
-<map.pdf, id=178, 494.84875pt x 453.695pt>
+
+Package natbib Warning: Citation `Pritchard2000' on page 4 undefined on input l
+ine 92.
+
+
+Package natbib Warning: Citation `Pritchard2000' on page 4 undefined on input l
+ine 92.
+
+
+LaTeX Warning: Reference `fig:pies' on page 4 undefined on input line 96.
+
+
+LaTeX Warning: Reference `fig:pies' on page 4 undefined on input line 96.
+
+
+LaTeX Warning: Reference `tab:Fst' on page 4 undefined on input line 96.
+
+[4 <./structure.jpg>] <map.pdf, id=52, 494.84875pt x 453.695pt>
 File: map.pdf Graphic file (type pdf)
  <use map.pdf>
 Package pdftex.def Info: map.pdf used on input line 100.
-(pdftex.def)             Requested size: 422.77661pt x 387.61557pt.
+(pdftex.def)             Requested size: 328.82706pt x 301.48186pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
@@ -413,7 +621,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-[4] [5 <./structure.jpg>] [6 <./map.pdf>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
@@ -423,79 +631,142 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-[7] [8] [9] [10]
+
+Package natbib Warning: Citation `renaut2013' on page 5 undefined on input line
+ 136.
+
+
+Package natbib Warning: Citation `Parchman2013' on page 5 undefined on input li
+ne 136.
+
+
+Package natbib Warning: Citation `Hufford2012b' on page 5 undefined on input li
+ne 136.
+
+
+Package natbib Warning: Citation `Hufford2013' on page 5 undefined on input lin
+e 136.
+
+
+Package natbib Warning: Citation `Pyhajarvi2013' on page 5 undefined on input l
+ine 136.
+
+
+Package natbib Warning: Citation `Hufford2012' on page 5 undefined on input lin
+e 136.
+
+[5 <./map.pdf>]
+
+Package natbib Warning: Citation `Diez2013' on page 6 undefined on input line 1
+39.
+
+[6]
+
+Package natbib Warning: Citation `Saghai-Maroof1984' on page 7 undefined on inp
+ut line 142.
+
+
+Package natbib Warning: Citation `Elshire2011' on page 7 undefined on input lin
+e 142.
+
+
+Package natbib Warning: Citation `Glaubitz2014' on page 7 undefined on input li
+ne 142.
+
+
+Package natbib Warning: Citation `Chia2012a' on page 7 undefined on input line 
+144.
+
+
+Package natbib Warning: Citation `reich2009' on page 7 undefined on input line 
+147.
+
+
+Package natbib Warning: Citation `price2009' on page 7 undefined on input line 
+147.
+
+
+Package natbib Warning: Citation `lawson2012' on page 7 undefined on input line
+ 147.
+
+
+Package natbib Warning: Citation `Vitti2013' on page 7 undefined on input line 
+147.
+
+[7] [8]
+Overfull \hbox (55.17659pt too wide) in paragraph at lines 208--215
+\OT1/cmr/m/n/10.95 search for ev-i-dence of se-lec-tion w/in in-di-vid-ual pops
+ >>>>>>> 1961c83b07c16d726ba9f1c326041ce089abf480 
+ []
+
+[9]
 Missing character: There is no Õ in font cmr10!
- [11]) [12]
+ [10]
+
+Package natbib Warning: Citation `peiffer2013genetic' on page 11 undefined on i
+nput line 267.
+
+
+Package natbib Warning: Citation `Romay2013' on page 11 undefined on input line
+ 267.
+
+
+Package natbib Warning: Citation `wills2013many' on page 11 undefined on input 
+line 267.
+
+
+Package natbib Warning: Citation `Mezmouk2014' on page 11 undefined on input li
+ne 267.
+
+
+Package natbib Warning: Citation `Peiffer2014' on page 11 undefined on input li
+ne 267.
+
+
+Package natbib Warning: Citation `sood2014mining' on page 11 undefined on input
+ line 267.
+
+[11]
+
+Package natbib Warning: Citation `Shi2010a' on page 12 undefined on input line 
+273.
+
+
+Package natbib Warning: Citation `Chia2012a' on page 12 undefined on input line
+ 273.
+
+
+Package natbib Warning: Citation `Fang2012' on page 12 undefined on input line 
+273.
+
+
+Package natbib Warning: Citation `Hufford2012' on page 12 undefined on input li
+ne 273.
+
+
+Package natbib Warning: Citation `Hufford2012b' on page 12 undefined on input l
+ine 273.
+
+
+Package natbib Warning: Citation `Hufford2013' on page 12 undefined on input li
+ne 273.
+
+
+Package natbib Warning: Citation `Melters2013a' on page 12 undefined on input l
+ine 273.
+
+
+Package natbib Warning: Citation `Kanizay2013' on page 12 undefined on input li
+ne 273.
+
+
+Package natbib Warning: Citation `Pyhajarvi2013' on page 12 undefined on input 
+line 273.
+
+) [12]
 \openout2 = `nsfref.aux'.
 
- (./nsfref.tex (./nsfmaster.bbl
-Missing character: There is no — in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ­ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ­ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¡ in font cmr10!
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.112 
-       [1
-
-
-]
-Missing character: There is no Ž in font cmr10!
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.211 ...is, Schlinger, and Buerkle]{Parchman2013}
-                                                   [2]
-Missing character: There is no Ÿ in font cmr10!
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.310 
-       [3]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¨ in font cmr10!
-Missing character: There is no Â in font cmr10!
-Missing character: There is no   in font cmr10!
-Missing character: There is no ’ in font cmr10!
-Missing character: There is no Õ in font cmr10!
-
-Underfull \hbox (badness 7186) in paragraph at lines 408--415
-[]\OT1/cmr/m/n/10.95 Joseph J. Vitti, Sharon R. Gross-man, and Par-dis C. Sa-be
-ti.  De-tect-ing nat-u-
- []
-
-
-Underfull \hbox (badness 5431) in paragraph at lines 408--415
-\OT1/cmr/m/n/10.95 ral se-lec-tion in ge-nomic data.  \OT1/cmr/m/it/10.95 An-nu
-al Re-view of Ge-net-ics\OT1/cmr/m/n/10.95 , 47(1):97--120, 2013.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--415
-\OT1/cmr/m/n/10.95 doi: $10 . 1146 / annurev-[]genet-[]111212-[]133526$.  URL [
-]$\OT1/cmtt/m/n/10.95 http : / / dx . doi . org / 10 . 1146 /
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.415 
-       [4]))pdfTeX warning (ext4): destination with the same identifier (name{p
-age.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.51 \include{nsfref}
-                      [5]
+ (./nsfref.tex (./nsfmaster.bbl))
 \openout2 = `nsfbudget.aux'.
 
  (./nsfbudget.tex
@@ -517,7 +788,15 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
- [1
+
+Overfull \hbox (11.68056pt too wide) in paragraph at lines 27--29
+[]\OT1/cmr/m/n/10.95 Technician - 50.4%(1/1/2015-6/31/2015), 53.4%(6/31/2015-6/
+31/2016), 55.7%(6/31/2016-
+ []
+
+[1
+
+
 
 
 ]
@@ -535,7 +814,7 @@ Missing character: There is no ™ in font cmr10!
  [1
 
 
-]) [2]
+]) [2] [3]
 \openout2 = `nsfdataman.aux'.
 
  (./nsfdataman.tex) [1
@@ -545,8 +824,8 @@ Missing character: There is no ™ in font cmr10!
 ]
 \openout2 = `nsfpdoc.aux'.
 
- (./nsfpdoc.tex)
-[1
+
+(./nsfpdoc.tex) [1
 
 
 ]
@@ -562,7 +841,17 @@ Missing character: There is no ™ in font cmr10!
 ]) [2]
 \openout2 = `a2_management.aux'.
 
- (./a2_management.tex [1
+ (./a2_management.tex
+Overfull \hbox (4.26399pt too wide) in paragraph at lines 23--24
+[]\OT1/cmr/m/n/10.95 Dr. Flint-Garcia will co-or-di-nate the an-nual phe-no-typ
+-ing work-shop, held each year in Columbia.
+ []
+
+
+LaTeX Warning: Reference `tab:timeline' on page Management Plan - Page 1 of 3 u
+ndefined on input line 36.
+
+[1
 
 
 ]
@@ -659,13 +948,13 @@ LaTeX Warning: Reference `subsec:admixmap' on page Management Plan - Page 2 of
 LaTeX Warning: Reference `sec:popgen' on page Management Plan - Page 2 of 3 und
 efined on input line 66.
 
-
-LaTeX Warning: Reference `subsec:nils' on page Management Plan - Page 2 of 3 un
-defined on input line 67.
-
 [2
 
 ]
+
+LaTeX Warning: Reference `subsec:nils' on page Management Plan - Page 3 of 3 un
+defined on input line 67.
+
 
 LaTeX Warning: Reference `subsec:rnaseq' on page Management Plan - Page 3 of 3 
 undefined on input line 68.
@@ -684,96 +973,4 @@ efined on input line 74.
 
 
 LaTeX Warning: Reference `subsec:nils' on page Management Plan - Page 3 of 3 un
-defined on input line 75.
-
-
-LaTeX Warning: Reference `subsec:rnaseq' on page Management Plan - Page 3 of 3 
-undefined on input line 76.
-
-
-LaTeX Warning: Reference `subsec:qtlmap' on page Management Plan - Page 3 of 3 
-undefined on input line 80.
-
-
-LaTeX Warning: Reference `subsec:admixmap' on page Management Plan - Page 3 of 
-3 undefined on input line 81.
-
-
-LaTeX Warning: Reference `sec:popgen' on page Management Plan - Page 3 of 3 und
-efined on input line 82.
-
-
-LaTeX Warning: Reference `subsec:nils' on page Management Plan - Page 3 of 3 un
-defined on input line 83.
-
-
-LaTeX Warning: Reference `subsec:rnaseq' on page Management Plan - Page 3 of 3 
-undefined on input line 84.
-
-
-LaTeX Warning: Reference `subsec:qtlmap' on page Management Plan - Page 3 of 3 
-undefined on input line 88.
-
-
-LaTeX Warning: Reference `sec:popgen' on page Management Plan - Page 3 of 3 und
-efined on input line 89.
-
-
-LaTeX Warning: Reference `subsec:nils' on page Management Plan - Page 3 of 3 un
-defined on input line 90.
-
-
-LaTeX Warning: Reference `subsec:rnaseq' on page Management Plan - Page 3 of 3 
-undefined on input line 91.
-
-) [3]
-\openout2 = `a6_gradundergrad.aux'.
-
- (./a6_gradundergrad.tex) [1
-
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
- (./nsfmaster.aux (./nsfsumm.aux)
-(./nsfdesc.aux) (./nsfref.aux) (./nsfbudget.aux) (./nsffacilities.aux)
-(./nsfdataman.aux) (./nsfpdoc.aux) (./a1_sharing.aux) (./a2_management.aux)
-(./a6_gradundergrad.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
-Package rerunfilecheck Info: File `nsfmaster.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
- ) 
-Here is how much of TeX's memory you used:
- 7101 strings out of 493488
- 104174 string characters out of 3141326
- 296781 words of memory out of 3000000
- 10085 multiletter control sequences out of 15000+200000
- 9481 words of font info for 33 fonts, out of 3000000 for 9000
- 957 hyphenation exceptions out of 8191
- 41i,12n,35p,2125b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
-></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (31 pages, 891972 bytes).
-PDF statistics:
- 651 PDF objects out of 1000 (max. 8388607)
- 580 compressed objects within 6 object streams
- 183 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+de
