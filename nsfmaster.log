@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUL 2014 22:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2014 11:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -370,10 +370,10 @@ LaTeX Info: Redefining \selectfont on input line 126.
 
  (./nsfsumm.tex
 Missing character: There is no Õ in font cmr10!
- [1
+) [1
 
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2]
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 \openout2 = `nsfdesc.aux'.
 
  (./nsfdesc.tex
@@ -391,18 +391,14 @@ l.53 \begin{adjustwidth}{5em}{5em}
                                    [1
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.67 
-      [2] [3] <structure.jpg, id=173, 547.8066pt x 134.4222pt>
+] [2] [3]
+<structure.jpg, id=170, 547.8066pt x 134.4222pt>
 File: structure.jpg Graphic file (type jpg)
-
-<use structure.jpg>
+ <use structure.jpg>
 Package pdftex.def Info: structure.jpg used on input line 91.
 (pdftex.def)             Requested size: 446.2658pt x 109.50902pt.
- <map.pdf, id=181, 494.84875pt x 453.695pt>
+
+<map.pdf, id=178, 494.84875pt x 453.695pt>
 File: map.pdf Graphic file (type pdf)
  <use map.pdf>
 Package pdftex.def Info: map.pdf used on input line 100.
@@ -429,7 +425,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
 [7]
 Missing character: There is no Õ in font cmr10!
- [8] [9]
+
+
+Package natbib Warning: Citation `Price et al. 2009; Lawson 2012' on page 8 und
+efined on input line 147.
+
+[8] [9]
 Missing character: There is no Õ in font cmr10!
  [10] [11]) [12]
 \openout2 = `nsfref.aux'.
@@ -716,12 +717,14 @@ undefined on input line 91.
 
 
 ]
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
- (./nsfmaster.aux (./nsfsumm.aux)
-(./nsfdesc.aux) (./nsfref.aux) (./nsfbudget.aux) (./nsffacilities.aux)
-(./nsfdataman.aux) (./nsfpdoc.aux) (./a1_sharing.aux) (./a2_management.aux)
-(./a6_gradundergrad.aux))
+(./nsfmaster.aux (./nsfsumm.aux) (./nsfdesc.aux) (./nsfref.aux)
+(./nsfbudget.aux) (./nsffacilities.aux) (./nsfdataman.aux) (./nsfpdoc.aux)
+(./a1_sharing.aux) (./a2_management.aux) (./a6_gradundergrad.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `nsfmaster.out' has not changed.
@@ -736,10 +739,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 7085 strings out of 493488
- 103910 string characters out of 3141326
+ 7086 strings out of 493488
+ 103942 string characters out of 3141326
  296457 words of memory out of 3000000
- 10073 multiletter control sequences out of 15000+200000
+ 10074 multiletter control sequences out of 15000+200000
  9481 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,12n,35p,2105b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -753,10 +756,10 @@ r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (31 pages, 891734 bytes).
+Output written on nsfmaster.pdf (30 pages, 892268 bytes).
 PDF statistics:
- 627 PDF objects out of 1000 (max. 8388607)
- 556 compressed objects within 6 object streams
+ 625 PDF objects out of 1000 (max. 8388607)
+ 555 compressed objects within 6 object streams
  179 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
