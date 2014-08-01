@@ -153,7 +153,13 @@ Talk about ILS figure here: (Figure \ref{fig:length})
 \label{fig:length}
 \end{SCfigure}
 
-Chr4 Inversion Results?\\
+\begin{figure}
+  \centering
+   \includegraphics[width=0.6\textwidth]{}
+    \caption{A) Inv4m hapmix from Matt's paper B) map of Inv4m SNP from David} 
+\label{fig:hufmap}
+\end{figure}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %SPECIFIC OBJECTIVES
@@ -201,7 +207,7 @@ We will combine our genome-wide marker data with data collected in our common ga
 phenotypes in \emph{parviglumis}, \emph{mexicana}, and hybrids. We will evaluate both the shape and slope of allele frequency clines at fitness-related loci relative to neutral loci. 
 \subsection*{Objective II: Genus-wide introgression}
 
-\subsubsection*{Research Question IIA) Was the spread of maize facilitated by gene flow from locally-adapted wild \emph{Zea}?} 
+\subsubsection*{Research Question IIA) Was the spread of maize facilitated by gene flow from locally-adapted wild \emph{Zea}?}  \label{adaptive_intro}
 
 *background on spread of maize
 
@@ -231,7 +237,7 @@ phenotypes in \emph{parviglumis}, \emph{mexicana}, and hybrids. We will evaluate
 
 We will also expand the scope of our previous work and assess whether similar patterns of introgression can be detected in maize populations that are sympatric to the Guatemalan teosintes (\emph{huehuetenangensis} and \emph{luxurians}).
 
-\subsubsection*{Research Question IIB) What is the geographic scale of adaptive introgression?}
+\subsubsection*{Research Question IIB) What is the geographic scale of adaptive introgression?} \label{scale}
 
 * in many plants local adaptation exists on a very fine geographical scale (examples, citations)
 
@@ -246,21 +252,25 @@ We will also expand the scope of our previous work and assess whether similar pa
 * 3 pairs of parv/maize sympatric pops
 * introgression, search for evidence of selection w/in individual pops
 
-\subsubsection*{Research Question IIC) Did maize serve as a bridge for gene flow between previously isolated Zea taxa?}
+\subsubsection*{Research Question IIC) Did maize serve as a bridge for gene flow between previously isolated Zea taxa?} \label{bridge}
 
-Our previous work based on a small number of loci has suggested that maize served as a bridge between \emph{parviglumis/mexicana} and \emph{huehuetenangensis} and \emph{luxurians} which are otherwise allopatric (Ross-Ibarra et al. 2009). The high-density, genome-wide data generated here will provide an opportunity to test the hypothesis that introgression occurred indirectly between previously allopatric \emph{Zea} taxa via maize as a conduit for gene flow.
+Our initial survey of divergence and gene flow in \emph{Zea}, based on a set of 26 Sanger sequence loci, found evidence for admixture between allopatric populations of \emph{mexicana} and \emph{luxurians} at multiple loci \citep{Ross-Ibarra2009a}. 
+As there is no evidence to suggest that these populations overlapped in their recent history, we took these results to suggest that maize, which is known to hybridize with both taxa, may have served as a bridge for gene flow between the two teosintes.
+Further support for this idea comes from genotyping of a SNP diagnostic for the two haplotypes at the inversion locus \emph{Inv4m} \citep{Fang2012,Pyhajarvi2013,Hufford2013}. 
+While the inverted haplotype at this locus appears to be derived in \emph{mexicana} \citep{Pyhajarvi2013}, the SNP allele diagnostic of the inverted haplotype is nonetheless found in both maize and \emph{luxurians} samples from Guatemala (Fig. \ref{hufmap}), suggesting the possibility that the inversion has moved from \emph{mexicana} into \emph{luxurians} via a maize intermediate.
+An alternative explanation, however, is that the haplotype was polymorphic in the common ancestor of both taxa, and remains segregating in each due to incomplete lineage sorting.
+Simple estimates of the length of shared haplotypes expected to be unbroken by recombination suggest that, over the $sim 140,000$ divergence time between \emph{mexicana} and \emph{luxurians} \citep{Ross-Ibarra2009a}, we might well expect to see shared haplotypes of even several kb in length in low recombination regions of the genome (Fig. \ref{length}).
+The high-density, genome-wide data generated here will provide an opportunity to test whether observed patterns of haplotype sharing between previously allopatric \emph{Zea} are due to recent introgression from maize.  
+If shared haplotypes have come from introgression from maize over the last few thousand years, the genome-wide distribution of shared haplotype lengths should reveal longer shared segments (Fig. \ref{length}) than if haplotype sharing is due to incomplete lineage sorting alone.
+Because maize has been found to hybridize with all species of \emph{Zea} \citep{Wilkes1977}, we will extend this objective to the perennial taxa \emph{Zea diploperennis} (hereafter, \emph{diploperennis}) and \emph{Zea perennis} (herafter \emph{perennis}) as well.  
 
-* Inv4m appears in luxurians, but Tanja says is derived in mexicana
-
-* JRI 2009 shows evidence of mex/lux gene flow
-
-* other taxa (Wilkes thesis) like diploperennis, though these are more geographically restricted
-
-* we will GBS 2 pops of each diplo and perennis to look for evidence of maize introgression. we do not have access to sympatric pops
-
-* evaluate evidence for haplotype sharing among these. look for long haplotypes, G stats, etc.
-
-* ask whether those coincide with regions that show evidence of introgression from maize.  
+We will sample 12 individuals from of 2 populations of \emph{diploperennis} and \emph{perennis} and genotype these using GBS. 
+These populations, combined with samples from other teosinte populations in research questions \ref{adpative_intro} and \ref{scale}, will provide us a representative sample of wild teosinte populations from across the Americas.
+We will use a number of methods, including HapMix \citep(XXX), relative nucleotide differences \citep(XXX), and STRUCTURE \citep{XXX} to compare across these sets of populations to identify shared haplotype segments. \jri{add FINE structure? something else? more detail here?}
+Although we do not have a genetic map for most teosinte taxa, evidence from comparison among maize populations finds remarkable stability of the genetic map at a relatively coarse scale \citep(XXX).
+We will thus use the NAM genetic map to estimate recombination rates genome-wide, and using estimates of divergence time between taxa, generate an expected distribution of shared haplotype lengths.
+This expected distribution will be compared to that observed in pairwise comparisons between taxa to look for evidence of recent introgression.
+We will also scan a large sample of $>16,000$ maize samples that have been genotyped with GBS (www.panzea.org) to look for the presence of such haplotypes in domesticated maize.
 
 \section*{Broader Impacts}
 

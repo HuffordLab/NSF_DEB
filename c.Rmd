@@ -3,7 +3,7 @@ title: "length"
 output: html_document
 ---
 
-We want to know the length of a shared segment of DNA that could be observed with no recombination with some probability. The probability that a sequence of length $L$ will have no recombination in one generation is $P(no rec over length L)=(1-c)^L$ where $c$ is the recombination rate per bp. Then, the probability that this locus will have no recombination for $n$ generations is simply $P(no rec over length L over n gens)=((1-c)^L)^n$.  If we set that probability to some value $P$ we can estimate the length of the segement for some value of $n$ via: $L=\frac{log(P)}{n*log(1-c)}$.
+We want to know the length of a shared segment of DNA that could be observed with no recombination with some probability. The probability that a sequence of length $L$ will have no recombination in one generation is $P_L=(1-c)^L$ where $c$ is the recombination rate per bp. Then, the probability that this locus will have no recombination for $n$ generations is simply $P_{Ln}=((1-c)^L)^n$.  If we set that probability to some value $P$ we can estimate the length of the segement for some value of $n$ via: $L=\frac{log(P_{Ln})}{n*log(1-c)}$.
 
 ```{r}
 rec<-function(power,gens,c){
@@ -11,7 +11,7 @@ rec<-function(power,gens,c){
 }
 ```
 
-We know do this for a bunch of values of time for three values of the recombination rate, 1cM/Mb (1E-8 per bp or average-ish recombination), 0.1cM/Mb (low recombination), and 10cM/Mb (high recombination)
+We now do this for a bunch of values of time for three values of the recombination rate, 1cM/Mb (1E-8 per bp or average-ish recombination), 0.1cM/Mb (low recombination), and 10cM/Mb (high recombination)
 ```{r}
 power=0.8
 c=1E-8 #rec per bp
@@ -40,11 +40,3 @@ axis(side=2,at=c(.1,1,5,10,50,100,500),labels=c(.1,1,5,10,50,100,500),cex.axis=1
 lines(length2~g,log="y",type="line",lty=2,lwd=3)
 lines(length3~g,log="y",type="line",lty=3,lwd=3)
 ```
-
-You can also embed plots, for example:
-
-```{r, echo=FALSE}
-plot(cars)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
