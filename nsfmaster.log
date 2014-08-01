@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 AUG 2014 13:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 AUG 2014 14:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -413,34 +413,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-<length_vs_time.png, id=239, 611.28375pt x 826.08624pt>
+<length_vs_time.png, id=240, 611.28375pt x 826.08624pt>
 File: length_vs_time.png Graphic file (type png)
 
 <use length_vs_time.png>
-Package pdftex.def Info: length_vs_time.png used on input line 149.
-(pdftex.def)             Requested size: 328.82706pt x 444.36563pt.
+Package pdftex.def Info: length_vs_time.png used on input line 151.
+(pdftex.def)             Requested size: 281.85585pt x 380.89923pt.
+
+Underfull \hbox (badness 1466) in paragraph at lines 154--154
+\OT1/cmr/m/n/10.95 mo-some seg-ment vs. num-ber of
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
-[5 <./map.pdf>] [6] [7]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 184.
+[5 <./map.pdf>] [6 <./length_vs_time.png>] [7] [8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 186.
 
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 184.
- [8] [9]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
+ [9] [10]
 Missing character: There is no Õ in font cmr10!
- [10]
-[11]) [12] [13 <./length_vs_time.png>]
+ [11]
+[12]) [13]
 \openout2 = `nsfref.aux'.
 
  (./nsfref.tex (./nsfmaster.bbl
@@ -760,10 +761,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 7118 strings out of 493488
- 104404 string characters out of 3141326
- 297076 words of memory out of 3000000
- 10097 multiletter control sequences out of 15000+200000
+ 7120 strings out of 493488
+ 104418 string characters out of 3141326
+ 296901 words of memory out of 3000000
+ 10099 multiletter control sequences out of 15000+200000
  9129 words of font info for 32 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,12n,35p,2125b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -776,10 +777,10 @@ usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (32 pages, 2805770 bytes).
+Output written on nsfmaster.pdf (32 pages, 2805730 bytes).
 PDF statistics:
- 705 PDF objects out of 1000 (max. 8388607)
- 622 compressed objects within 7 object streams
+ 706 PDF objects out of 1000 (max. 8388607)
+ 623 compressed objects within 7 object streams
  188 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
