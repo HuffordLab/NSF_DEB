@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2014 23:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 AUG 2014 13:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -392,50 +392,55 @@ l.55 \subsection
 [1
 
 
-] [2] [3] <structure.jpg, id=178, 547.8066pt x 134.4222pt>
-File: structure.jpg Graphic file (type jpg)
+] [2] [3] <structure.pdf, id=183, 553.06625pt x 184.69pt>
+File: structure.pdf Graphic file (type pdf)
 
-<use structure.jpg>
-Package pdftex.def Info: structure.jpg used on input line 117.
-(pdftex.def)             Requested size: 446.2658pt x 109.50902pt.
- [4 <./structure.jpg>]
-<map.pdf, id=197, 494.84875pt x 453.695pt>
+<use structure.pdf>
+Package pdftex.def Info: structure.pdf used on input line 114.
+(pdftex.def)             Requested size: 446.2658pt x 149.02316pt.
+ [4 <./structure.pdf>]
+<map.pdf, id=238, 494.84875pt x 453.695pt>
 File: map.pdf Graphic file (type pdf)
  <use map.pdf>
-Package pdftex.def Info: map.pdf used on input line 126.
+Package pdftex.def Info: map.pdf used on input line 123.
 (pdftex.def)             Requested size: 328.82706pt x 301.48186pt.
 
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 131.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--148
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-[5 <./map.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+<length_vs_time.png, id=239, 611.28375pt x 826.08624pt>
+File: length_vs_time.png Graphic file (type png)
+
+<use length_vs_time.png>
+Package pdftex.def Info: length_vs_time.png used on input line 149.
+(pdftex.def)             Requested size: 328.82706pt x 444.36563pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-[6] [7]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 181.
+[5 <./map.pdf>] [6] [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 184.
 
- (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 181.
- [8]
-[9]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 184.
+ [8] [9]
 Missing character: There is no Õ in font cmr10!
- [10] [11]) [12]
+ [10]
+[11]) [12] [13 <./length_vs_time.png>]
 \openout2 = `nsfref.aux'.
 
  (./nsfref.tex (./nsfmaster.bbl
@@ -755,11 +760,11 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 7112 strings out of 493488
- 104287 string characters out of 3141326
- 296800 words of memory out of 3000000
- 10093 multiletter control sequences out of 15000+200000
- 9481 words of font info for 33 fonts, out of 3000000 for 9000
+ 7118 strings out of 493488
+ 104404 string characters out of 3141326
+ 297076 words of memory out of 3000000
+ 10097 multiletter control sequences out of 15000+200000
+ 9129 words of font info for 32 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  41i,12n,35p,2125b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -770,12 +775,11 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (31 pages, 896254 bytes).
+local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on nsfmaster.pdf (32 pages, 2805770 bytes).
 PDF statistics:
- 658 PDF objects out of 1000 (max. 8388607)
- 587 compressed objects within 6 object streams
- 186 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 705 PDF objects out of 1000 (max. 8388607)
+ 622 compressed objects within 7 object streams
+ 188 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
