@@ -1,4 +1,4 @@
-\begin{thebibliography}{51}
+\begin{thebibliography}{52}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -120,11 +120,24 @@ Alexander Grobman, Duccio Bonavia, Tom~D. Dillehay, Dolores~R. Piperno, José
 \newblock \doi{10.1073/pnas.1120270109}.
 \newblock URL \url{http://www.pnas.org/content/109/5/1755.abstract}.
 
+\bibitem[Guerrero and Kirkpatrick(2014)]{guerrero2014}
+Rafael~F Guerrero and Mark Kirkpatrick.
+\newblock Local adaptation and the evolution of chromosome fusions.
+\newblock \emph{Evolution}, 2014.
+
 \bibitem[Harrison(1993)]{HarrisonHybridZone}
 R.~G. Harrison.
 \newblock Hybrids and hybrid zones: Historical perspective.
 \newblock In R.~G. Harrison, editor, \emph{Hybrid Zones and the Evolutionary
   Process}, pages 3--12. Oxford University Press, New York, 1993.
+
+\bibitem[Huerta-S{\'a}nchez et~al.(2014)Huerta-S{\'a}nchez, Jin, Bianba, Peter,
+  Vinckenbosch, Liang, Yi, He, Somel, Ni, et~al.]{huerta2014}
+Emilia Huerta-S{\'a}nchez, Xin Jin, Zhuoma Bianba, Benjamin~M Peter, Nicolas
+  Vinckenbosch, Yu~Liang, Xin Yi, Mingze He, Mehmet Somel, Peixiang Ni, et~al.
+\newblock Altitude adaptation in tibetans caused by introgression of
+  denisovan-like dna.
+\newblock \emph{Nature}, 2014.
 
 \bibitem[Hufford et~al.(2012{\natexlab{a}})Hufford, Mart{\'\i}nez-Meyer, Gaut,
   Eguiarte, and Tenaillon]{hufford2012inferences}
@@ -357,19 +370,6 @@ S~Sood, S~Flint-Garcia, MC~Willcox, and JB~Holland.
   phenotypes and genes.
 \newblock In \emph{Genomics of Plant Genetic Resources}, pages 615--649.
   Springer, 2014.
-
-\bibitem[Soria-Carrasco et~al.(2014)Soria-Carrasco, Gompert, Comeault, Farkas,
-  Parchman, Johnston, Buerkle, Feder, Bast, Schwander, Egan, Crespi, and
-  Nosil]{SoriaCarrasco2014}
-Víctor Soria-Carrasco, Zachariah Gompert, Aaron~A. Comeault, Timothy~E. Farkas,
-  Thomas~L. Parchman, J.~Spencer Johnston, C.~Alex Buerkle, Jeffrey~L. Feder,
-  Jens Bast, Tanja Schwander, Scott~P. Egan, Bernard~J. Crespi, and Patrik
-  Nosil.
-\newblock Stick insect genomes reveal natural selection’s role in parallel
-  speciation.
-\newblock \emph{Science}, 344\penalty0 (6185):\penalty0 738--742, 2014.
-\newblock \doi{10.1126/science.1252136}.
-\newblock URL \url{http://www.sciencemag.org/content/344/6185/738.abstract}.
 
 \bibitem[Staubach et~al.(2012)Staubach, Lorenc, Messer, Tang, Petrov, and
   Tautz]{staubach2012}
