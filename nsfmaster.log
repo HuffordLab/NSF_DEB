@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2014 17:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 JUL 2014 19:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -280,22 +280,22 @@ LaTeX Warning: Label `tab:timeline' multiply defined.
 ) (./a6_gradundergrad.aux))
 \openout1 = `nsfmaster.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 44.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -305,9 +305,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count110
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
 
 (./nsfmaster.out) (./nsfmaster.out)
 \@outlinefile=\write3
@@ -402,7 +402,7 @@ Package pdftex.def Info: structure.jpg used on input line 91.
 File: map.pdf Graphic file (type pdf)
  <use map.pdf>
 Package pdftex.def Info: map.pdf used on input line 100.
-(pdftex.def)             Requested size: 422.77661pt x 387.61557pt.
+(pdftex.def)             Requested size: 328.82706pt x 301.48186pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
@@ -413,7 +413,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
-[4] [5 <./structure.jpg>] [6 <./map.pdf>]
+[4] [5 <./structure.jpg> <./map.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
@@ -423,9 +423,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-[7] [8] [9] [10]
+[6] [7]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 155.
+
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 155.
+ [8]
+[9]
 Missing character: There is no Õ in font cmr10!
- [11]) [12]
+ [10] [11]) [12]
 \openout2 = `nsfref.aux'.
 
  (./nsfref.tex (./nsfmaster.bbl
@@ -494,7 +503,7 @@ l.415
 age.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.51 \include{nsfref}
+l.53 \include{nsfref}
                       [5]
 \openout2 = `nsfbudget.aux'.
 
@@ -511,13 +520,7 @@ LaTeX Warning: Reference `sec:qtl' on page f. Budget Justification - Page 1 of
 LaTeX Warning: Reference `sec:funchar' on page f. Budget Justification - Page 1
  of 3 undefined on input line 15.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
- [1
+[1
 
 
 ]
@@ -733,14 +736,14 @@ undefined on input line 91.
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (./nsfmaster.aux (./nsfsumm.aux)
 (./nsfdesc.aux) (./nsfref.aux) (./nsfbudget.aux) (./nsffacilities.aux)
 (./nsfdataman.aux) (./nsfpdoc.aux) (./a1_sharing.aux) (./a2_management.aux)
 (./a6_gradundergrad.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `nsfmaster.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -750,12 +753,12 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 7101 strings out of 493488
- 104174 string characters out of 3141326
- 296781 words of memory out of 3000000
+ 7103 strings out of 493488
+ 104198 string characters out of 3141326
+ 296787 words of memory out of 3000000
  10085 multiletter control sequences out of 15000+200000
  9481 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -770,10 +773,10 @@ r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/lo
 cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on nsfmaster.pdf (31 pages, 891972 bytes).
+Output written on nsfmaster.pdf (31 pages, 893202 bytes).
 PDF statistics:
- 651 PDF objects out of 1000 (max. 8388607)
- 580 compressed objects within 6 object streams
- 183 named destinations out of 1000 (max. 500000)
+ 653 PDF objects out of 1000 (max. 8388607)
+ 582 compressed objects within 6 object streams
+ 185 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
