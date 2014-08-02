@@ -1,4 +1,4 @@
-\begin{thebibliography}{52}
+\begin{thebibliography}{56}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -67,6 +67,12 @@ Concepción~M. D\'{i}ez, Brandon~S. Gaut, Esteban Meca, Enrique Scheinvar,
 \newblock ISSN 1469-8137.
 \newblock \doi{10.1111/nph.12247}.
 \newblock URL \url{http://dx.doi.org/10.1111/nph.12247}.
+
+\bibitem[Eagles and Lothrop(1994)]{Eagles1994}
+H.~A. Eagles and J.~E. Lothrop.
+\newblock Highland maize from central mexico—its origin, characteristics, and
+  use in breeding programs.
+\newblock \emph{Crop Science}, 34:\penalty0 11--19, 1994.
 
 \bibitem[Elshire et~al.(2011)Elshire, Glaubitz, Sun, Poland, Kawamoto, Buckler,
   and Mitchell]{Elshire2011}
@@ -184,6 +190,17 @@ LB~Kanizay, T~Pyhajarvi, EG~Lowry, MB~Hufford, DG~Peterson, J~Ross-Ibarra, and
   complex in zea mays.
 \newblock \emph{Heredity (Edinb)}, 110\penalty0 (6):\penalty0 570--577, 2013.
 
+\bibitem[Karhunen et~al.(2013)Karhunen, Merilä, Leinonen, Cano, and
+  Ovaskainen]{Karhunen2013}
+M.~Karhunen, J.~Merilä, T.~Leinonen, J.~M. Cano, and O.~Ovaskainen.
+\newblock driftsel: an r package for detecting signals of natural selection in
+  quantitative traits.
+\newblock \emph{Molecular Ecology Resources}, 13\penalty0 (4):\penalty0
+  746--754, 2013.
+\newblock ISSN 1755-0998.
+\newblock \doi{10.1111/1755-0998.12111}.
+\newblock URL \url{http://dx.doi.org/10.1111/1755-0998.12111}.
+
 \bibitem[Kruuk et~al.(1999)Kruuk, Baird, Gale, and Barton]{Kruuk1999}
 L.~E.~B. Kruuk, S.~J.~E. Baird, K.~S. Gale, and N.~H. Barton.
 \newblock A comparison of multilocus clines maintained by environmental
@@ -219,6 +236,16 @@ DP~Melters, KR~Bradnam, HA~Young, N~Telis, MR~May, JG~Ruby, R~Sebra, P~Peluso,
 S~Mezmouk and J~Ross-Ibarra.
 \newblock The pattern and distribution of deleterious mutations in maize.
 \newblock \emph{G3 (Bethesda)}, 4\penalty0 (1):\penalty0 163--171, 2014.
+
+\bibitem[Ovaskainen et~al.(2011)Ovaskainen, Karhunen, Zheng, Arias, and
+  Merilä]{Ovaskainen2011}
+Otso Ovaskainen, Markku Karhunen, Chaozhi Zheng, José Manuel~Cano Arias, and
+  Juha Merilä.
+\newblock A new method to uncover signatures of divergent and stabilizing
+  selection in quantitative traits.
+\newblock \emph{Genetics}, 189\penalty0 (2):\penalty0 621--632, 2011.
+\newblock \doi{10.1534/genetics.111.129387}.
+\newblock URL \url{http://www.genetics.org/content/189/2/621.abstract}.
 
 \bibitem[Parchman et~al.(2013)Parchman, Gompert, Braun, Brumfield, McDonald,
   Uy, Zhang, Jarvis, Schlinger, and Buerkle]{Parchman2013}
@@ -311,6 +338,15 @@ S.~Renaut, C.~J. Grassa, S.~Yeaman, B.~T. Moyers, Z.~Lai, N.~C. Kane, J.~E.
 \newblock \emph{Nature Communications}, 4:\penalty0 1827--, 2013.
 \newblock \doi{10.1038/ncomms2833}.
 \newblock URL \url{http://dx.doi.org/10.1038/ncomms2833}.
+
+\bibitem[Rodriguez et~al.({2006})Rodriguez, Sanchez, Baltazar, De~la Cruz,
+  Santacruz-Ruvalcaba, Ron, and Schoper]{Rodriguez2006}
+J.~G. Rodriguez, J.~J. Sanchez, B.~Baltazar, L.~De~la Cruz,
+  F.~Santacruz-Ruvalcaba, J.~Ron, and J.~B. Schoper.
+\newblock {Characterization of floral morphology and synchrony among Zea
+  species in Mexico}.
+\newblock \emph{{MAYDICA}}, {51}\penalty0 ({2}):\penalty0 {383--398}, {2006}.
+\newblock ISSN {0025-6153}.
 
 \bibitem[Romay et~al.(2013)Romay, Millard, Glaubitz, Peiffer, Swarts,
   Casstevens, Elshire, Acharya, Mitchell, Flint-Garcia, McMullen, Holland,
