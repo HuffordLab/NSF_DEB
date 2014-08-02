@@ -1,4 +1,4 @@
-\begin{thebibliography}{56}
+\begin{thebibliography}{57}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -115,6 +115,13 @@ Jeffrey~C. Glaubitz, Terry~M. Casstevens, Fei Lu, James Harriman, Robert~J.
 \newblock \emph{PLoS ONE}, 9\penalty0 (2):\penalty0 e90346, 02 2014.
 \newblock \doi{10.1371/journal.pone.0090346}.
 \newblock URL \url{http://dx.doi.org/10.1371%2Fjournal.pone.0090346}.
+
+\bibitem[Gore et~al.(2009)Gore, Chia, Elshire, Sun, Ersoz, Hurwitz, Peiffer,
+  McMullen, Grills, Ross-Ibarra, Ware, and Buckler]{Gore2009}
+MA~Gore, JM~Chia, RJ~Elshire, Q~Sun, ES~Ersoz, BL~Hurwitz, JA~Peiffer,
+  MD~McMullen, GS~Grills, J~Ross-Ibarra, DH~Ware, and ES~Buckler.
+\newblock A first-generation haplotype map of maize.
+\newblock \emph{Science}, 326\penalty0 (5956):\penalty0 1115--1117, 2009.
 
 \bibitem[Grobman et~al.(2012)Grobman, Bonavia, Dillehay, Piperno, Iriarte, and
   Holst]{Grobman2012}

@@ -13,47 +13,48 @@ A level-1 auxiliary file: a1_sharing.aux
 A level-1 auxiliary file: a2_management.aux
 A level-1 auxiliary file: a6_gradundergrad.aux
 Database file #1: references.bib
+Warning--I didn't find a database entry for "Wilkes1967"
 Warning--I didn't find a database entry for "("
 Warning--I didn't find a database entry for "XXX"
-You've used 56 entries,
+You've used 57 entries,
             2773 wiz_defined-function locations,
-            1014 strings with 19338 characters,
-and the built_in function-call counts, 38250 in all, are:
-= -- 3127
-> -- 3471
+            1023 strings with 19606 characters,
+and the built_in function-call counts, 39214 in all, are:
+= -- 3199
+> -- 3582
 < -- 13
-+ -- 1164
-- -- 1105
-* -- 3806
-:= -- 6183
-add.period$ -- 209
-call.type$ -- 56
-change.case$ -- 535
-chr.to.int$ -- 53
-cite$ -- 112
-duplicate$ -- 1182
-empty$ -- 2271
-format.name$ -- 1171
-if$ -- 7694
++ -- 1201
+- -- 1141
+* -- 3909
+:= -- 6342
+add.period$ -- 212
+call.type$ -- 57
+change.case$ -- 550
+chr.to.int$ -- 54
+cite$ -- 114
+duplicate$ -- 1203
+empty$ -- 2314
+format.name$ -- 1208
+if$ -- 7883
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 56
-newline$ -- 327
-num.names$ -- 226
-pop$ -- 944
+missing$ -- 57
+newline$ -- 332
+num.names$ -- 230
+pop$ -- 972
 preamble$ -- 1
-purify$ -- 479
+purify$ -- 493
 quote$ -- 0
-skip$ -- 1057
+skip$ -- 1081
 stack$ -- 0
-substring$ -- 1265
-swap$ -- 78
+substring$ -- 1294
+swap$ -- 79
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 616
+type$ -- 627
 warning$ -- 0
-while$ -- 231
+while$ -- 235
 width$ -- 0
-write$ -- 811
-(There were 2 warnings)
+write$ -- 824
+(There were 3 warnings)
