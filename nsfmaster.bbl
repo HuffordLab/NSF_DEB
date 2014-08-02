@@ -1,4 +1,4 @@
-\begin{thebibliography}{57}
+\begin{thebibliography}{58}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -24,6 +24,17 @@ Jessica~G. Barb, John~E. Bowers, Sebastien Renaut, Juan~I. Rey, Steven~J.
 \newblock \doi{10.1534/genetics.114.165548}.
 \newblock URL
   \url{http://www.genetics.org/content/early/2014/04/24/genetics.114.165548.abstract}.
+
+\bibitem[Bradbury et~al.(2007)Bradbury, Zhang, Kroon, Casstevens, Ramdoss, and
+  Buckler]{Bradbury2007}
+Peter~J. Bradbury, Zhiwu Zhang, Dallas~E. Kroon, Terry~M. Casstevens, Yogesh
+  Ramdoss, and Edward~S. Buckler.
+\newblock Tassel: software for association mapping of complex traits in diverse
+  samples.
+\newblock \emph{Bioinformatics}, 23\penalty0 (19):\penalty0 2633--2635, 2007.
+\newblock \doi{10.1093/bioinformatics/btm308}.
+\newblock URL
+  \url{http://bioinformatics.oxfordjournals.org/content/23/19/2633.abstract}.
 
 \bibitem[Chia et~al.(2012)Chia, Song, Bradbury, Costich, de~Leon, Doebley,
   Elshire, Gaut, Geller, Glaubitz, Gore, Guill, Holland, Hufford, Lai, Li, Liu,
