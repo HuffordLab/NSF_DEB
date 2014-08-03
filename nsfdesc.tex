@@ -65,6 +65,7 @@ Maize was domesticated in southwest Mexico from \emph{parviglumis} $\sim$9,000 B
 %RATIONALE AND SIGNIFICANCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Rationale and Significance}
+\jri{more needed here, see comments thoughout grant. we should make this relevant to stickelback people (cite Schluter), relate it to other plants (think rice domestication or spread of barley from its origin, or extinction via hybridization in wild radish, or heliconiues, etc. etc. this section should bring up questions that lots of biologists can say -- "cool, that applies to my system" or "hey that's an important general question". then later we dive into the detail of how/why we ask and answer these questions in the teosinte system.}
 Pioneers in evolutionary biology including G. Ledyard Stebbins and Edgar Anderson \jri{and Jeffrey Ross-Ibarra} recognized the important role hybridization and introgression could play in adaptation and speciation \citep{Anderson1948, Anderson1954}. These evolutionary forces were thought to be particularly influential when environmental conditions encountered by a species were marginal, variable, or new \citep{Stebbins1959}. More recently, theoretical and empirical investigations of hybridization have focused on hybrid zones, defined as regions where distinct taxa co-occur and mate, resulting in progeny of mixed ancestry \citep{HarrisonHybridZone}. 
 
 While hybrid zone theory has progressed and many compelling empirical examples have been identified based on hybrid morphology and genetic marker data \citep{Delmore2013, Galindo2013, Parchman2013, Smith2013a}, several outstanding questions remain. 
@@ -188,7 +189,7 @@ We have previous experience dealing with whole genome shotgun data \citep{Gore20
 We will assess the genome-wide patterns of ancestry using several approaches.  
 First, standard measures of differentiation including $F_{ST}$, the proportion of shared and fixed variants, and relative levels of nucleotide diversity \citep{Geneva2014} will be calculated in sliding windows along the genome. 
 Second, we will attempt to implement haplotype-based methods for detecting introgression \citep[\emph{e.g.},][]{price2009, lawson2012} that will effectively allow us to model chromosomes from hybrid populations as mosaics of reference allopatric populations of \emph{parviglumis} and \emph{mexicana}.  
-Finally, if phasing genotypes proves difficult given high levels of missing data or heterozygous error, we will make use of software designed to estimate admixture from genotype-likelihoods calculated on low-coverage sequence data \citep{skotte2013estimating}. 
+Finally, if phasing genotypes \citep{scheet2006fast} proves difficult given high levels of missing data or heterozygous error, we will make use of software designed to estimate admixture from genotype-likelihoods calculated on low-coverage sequence data \citep{skotte2013estimating}. 
 We have already designed pipelines to work with genotype-likelihoods (e.g. \url{https://github.com/rossibarra/angsbigd}) and can utilize these methods to also calculate standard diversity statistics.  
 We will assess excess of \emph{parviglumis} or \emph{mexicana} ancestry on a site-by-site basis across hybrid genomes at the population level and will determine whether patterns are conserved across populations within hybrid zones and between hybrid zones.  Chromosomal regions showing an excess of ancestry from one taxon in hybrid populations will be inspected for evidence of selection using a combination of site-frequency-, linkage-disequilibrium-, and population-differentiation-based methods \citep[reviewed in][]{Vitti2013}. Chromosomal regions showing strong evidence of selection across individuals within a hybrid zone based on analysis of GBS data will be further dissected using high-density, full-genome data generated for a single individual per hybrid zone.  
 Whole genome sequence will allow definition of the exact haplotype(s) that have introgressed, allowing estimation of the age of the introgression and potentially identifying candidate causal polymorphisms.  
@@ -225,21 +226,23 @@ Finally, we return to the observation of haplotype sharing between allopatric te
 \subsubsection{Was the spread of maize facilitated by gene flow from locally-adapted wild \emph{Zea}?}
 \label{sss:adaptive_intro}
 
-We have previously documented the importance of introgression in facilitating maize adaptation to the highlands of 
-*one new habitat was highlands
+We have previously documented the importance of introgression in facilitating maize adaptation to the highlands of the Mexican Central Plateau \citep{Hufford2013}. \jri{by this point in the grant, i think reviewers are thinking "OK OK I GET IT STOP CITING THAT F'ING HUFFORD 2013!" and I'm thinking "NO YOU DON'T GET IT THAT PAPER ROCKS. STOP NOW AND GO READ IT"}
+During its diffusion from the Pacific Coast of Mexcio, maize encountered a number of different environments in addition to the highlands.
+By only a few thousand years after domestication, for example, maize had arrived in the humid tropical lowlands of Guatemala \citep{neff2006early}.  
+The Guatemalan lowlands are substantially more tropical than southwest coast of Mexico inhabited by \zp, with warmer winters, lower annual fluctuation in temperature, and more than double the annual precipitation.
+Upon arrival to Guatemala, maize came into contact with the wild teosintes \zh and \zl.  
+These taxa exhibit a number of adaptations to their environment including differences in root architecture, flooding tolerance, and delayed flowering \jri{CITE}.
+Maize is known to hybridize with both taxa \jri{CITE}, raising the possibility that the process of adaptive introgression we observed in the highlands of Central Mexico is mirrored in the humid lowlands of Guatemala.
 
-
-* but what about spread to (insert something about environment differences) in Guatemala? 
-
-* background on luxurians and huehue, information on maize arrival in guatemal from arch. record if available, or on maize in guat from van heerwaarden 2011.
-
-* 4 pairs of huehue/maize and 4 pairs of lux/maize sympatric pops, then at both high and low elevation (or some other gradient?) we pick 1 allopatric teo and 1 allopatric maize, for a total of 6 pops of each taxa = 24 pops total.  
-
-* 12 individuals per pop, GBS to 48 plex.
-
-* can look for overlap with QTL for water-logging etc. traits (Mano papers) or GWAS for related traits in maize
-
-* include formal analysis using Berg's SQuaT approach?
+To address this question we will sample six populations of both \zl and \zh from stratified across their elevational range in Guatemala.  
+Two of these populations will be chosen to be as distant as possible from domesticated maize, and used as a control representative of ancestral haplotypes or allele frequencies.  
+For the remaining four populations of each taxon, we will sample populations of both the teosinte and a sympatric or nearby maize landrace population.
+Additionally, two maize populations from similar environment, but allopatric to teosinte, will also be chosen, for a total of 24 maize and teosinte populations.  
+We will genotype 12 individuals from each population using GBS. 
+Analysis of introgression and selection will follow methods described in \ref{ss:genomescan}.
+If introgression from either of these teosintes has been adaptive to colonization of the humid lowlands, we predict we will find evidence of introgression in the majority of maize populations, that these regions will show evidence of recent selection in maize, and that they will overlap with QTL for traits likely to be adaptive in these environments \citep[e.g.][]{omori2007qtl,mano2008linkage}.
+We also predict that the same regions should show evidence of selection against introgression from maize into \zl.
+Results from these analyses will help establish whether observations of adaptive introgression from \zm are an anomaly unique to the highlands of Mexico, or whether adaptive introgression from crop wild relatives may be a common occurrence that has facilitated the spread of domesticated taxa beyond their original habitat.
 
 Finally, this aim will also provide useful baseline information on patterns of genetic diversity in \zl and \zh, both taxa of conservation concern within Gautemala and of interest for novel root traits for breeding including root angle, adventitious root formation, and the formation of aerenchyma \citep{omori2007qtl,mano2007breeding}. 
 Almost nothing is known about diversity in these taxa, and questions regarding their long-term survival, the risk of diversity loss or extinction due to excessive hybridization with maize, and the relationship and connectivity among populations will all be furthered by the results obtained here.
@@ -253,8 +256,10 @@ We observed widespread introgression of \zm alleles in highland maize across the
 However, we also observed a number of regions showing evidence of introgression in only a one or a few of the sympatric maize populations. 
 Ascertainment bias and the limited resolution of the SNPs available prevented further analysis of these loci to determine whether they too had been driven by adaptive introgression.
 
-To understand the scale of adaptive introgression and local adaptation in maize, we propose here to analyze a set of sympatric pairs of maize and teosinte populations from the highlands of Central Mexico (with \zm), the Pacific coast of Mexico (with \zp), and the humid tropical lowlands of Guatemala (with \zl\ and \zh). In addition to the populations sampled in \ref{sss:adaptive_intro}, we will sample 3 pairs of \zm and \zp previously identified as sympatric with domesticated maize \citep{hufford2010genetic, Hufford2013}.  
-Maize and teosinte individuals from each population will be genotyped using GBS at 48-plex, and we will test for introgression and selection following methods proposed in \ref{sss:adaptive_intro}.  
+To understand the scale of adaptive introgression and local adaptation in maize, we propose here to analyze a set of sympatric pairs of maize and teosinte populations from the highlands of Central Mexico (with \zm), the Pacific coast of Mexico (with \zp), and the humid tropical lowlands of Guatemala (with \zl\ and \zh). 
+In addition to the populations sampled in \ref{sss:adaptive_intro}, we will sample 3 pairs of \zm and \zp previously identified as sympatric with domesticated maize \citep{hufford2010genetic, Hufford2013}.  
+For each of \zl, \zm, \zp, and \zh we will endeavor to sample populations from different environments within the range of the taxon.
+Maize and teosinte individuals from each population will be genotyped using GBS, and we will test for introgression and selection following methods proposed in \ref{sss:adaptive_intro}.  \jri{do we need to specift 48 plex each time we metnion GBS? i added it to your methods in objective 1. is that sufficient?}
 We will quantify the overlap between regions of the genome showing evidence for selection and those showing evidence of introgression in all or a subset of sympatric populations.  
 While we have prior evidence for adaptive introgression from \zm into maize, we do not know whether introgression from \zp, \zl, or \zh may have proven adaptive in any population.
 If we find evidence of both introgression and selection, one hypothesis is that we may expect to find adaptive introgression limited to only those regions which are broadly adaptive across a wide geographic area. 
@@ -282,7 +287,7 @@ Will will use our teosinte genetic map or the published NAM map \citep{McMullen2
 
 Although the limited sampling in \citet{Ross-Ibarra2009a} only identified shared haplotypes between \zm and \zl, maize has been found to hybridize with all species in \emph{Zea} \citep{Wilkes1977}.
 We will thus include in our analysis here the perennial taxa \emph{Zea diploperennis} (hereafter, \emph{diploperennis}) and \emph{Zea perennis} (herafter \emph{perennis}).  
-We will sample 12 individuals from of 2 populations of \emph{diploperennis} and \emph{perennis} and genotype these using GBS at 48-plex.
+We will sample 12 individuals from of 2 populations of \emph{diploperennis} and \emph{perennis} and genotype these using GBS.
 These populations, combined with samples from other teosinte populations included in \ref{sss:adaptive_intro} and \ref{sss:scale}, will provide us with a representative sample of wild teosinte populations from across the Americas.
 Shared haplotypes will be identified (see methods in \ref{sss:genomescan}) and compared to the expected distribution of haplotype lengths to look for evidence of recent introgression consistent with the hypothesis that maize has served as a bridge for gene flow among teosinte taxa.
 Although we cannot exhaustively test for the presence of such haplotypes in all of maize, we can survey published GBS data for more than $>16,000$ maize samples \url{www.panzea.org} to assess the frequency of such haplotypes in domesticated maize.
