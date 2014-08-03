@@ -36,7 +36,8 @@
 \usepackage{booktabs} %funky tabs in tables
 \newcommand{\jri}[1]{\textcolor{blue}{ \emph{\scriptsize  #1}} }
 \newcommand{\mbh}[1]{\textcolor{red}{ \emph{\scriptsize  #1}} }
-
+\renewcommand{\thesubsection}{Objective \Roman{subsection}}
+\renewcommand{\thesubsubsection}{\thesubsection\Alph{subsubsection}}
 \renewcommand{\theenumi}{\Alph{enumi}}
 
 %\includeonly{NSFsumm}
