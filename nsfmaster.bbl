@@ -5,58 +5,50 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Anderson and Stebbins(1954)]{Anderson1954}
-E.~Anderson and Jr. Stebbins, G.~L.
-\newblock Hybridization as an evolutionary stimulus.
-\newblock \emph{Evolution}, 8\penalty0 (4):\penalty0 378--388, 1954.
-
 \bibitem[Anderson(1948)]{Anderson1948}
-Edgar Anderson.
+E.~Anderson.
 \newblock Hybridization of the habitat.
 \newblock \emph{Evolution}, 2\penalty0 (1):\penalty0 1--9, 1948.
 
+\bibitem[Anderson and Stebbins(1954)]{Anderson1954}
+E.~Anderson and J.~Stebbins, G.~L.
+\newblock Hybridization as an evolutionary stimulus.
+\newblock \emph{Evolution}, 8\penalty0 (4):\penalty0 378--388, 1954.
+
 \bibitem[Barb et~al.(2014)Barb, Bowers, Renaut, Rey, Knapp, Rieseberg, and
   Burke]{Barb2014}
-Jessica~G. Barb, John~E. Bowers, Sebastien Renaut, Juan~I. Rey, Steven~J.
-  Knapp, Loren~H. Rieseberg, and John~M. Burke.
+J.~G. Barb, J.~E. Bowers, S.~Renaut, J.~I. Rey, S.~J. Knapp, L.~H. Rieseberg,
+  and J.~M. Burke.
 \newblock Chromosomal evolution and patterns of introgression in helianthus.
 \newblock \emph{Genetics}, 2014.
-\newblock \doi{10.1534/genetics.114.165548}.
-\newblock URL
-  \url{http://www.genetics.org/content/early/2014/04/24/genetics.114.165548.abstract}.
 
 \bibitem[Bradbury et~al.(2007)Bradbury, Zhang, Kroon, Casstevens, Ramdoss, and
   Buckler]{Bradbury2007}
-Peter~J. Bradbury, Zhiwu Zhang, Dallas~E. Kroon, Terry~M. Casstevens, Yogesh
-  Ramdoss, and Edward~S. Buckler.
+P.~J. Bradbury, Z.~Zhang, D.~E. Kroon, T.~M. Casstevens, Y.~Ramdoss, and E.~S.
+  Buckler.
 \newblock Tassel: software for association mapping of complex traits in diverse
   samples.
 \newblock \emph{Bioinformatics}, 23\penalty0 (19):\penalty0 2633--2635, 2007.
-\newblock \doi{10.1093/bioinformatics/btm308}.
-\newblock URL
-  \url{http://bioinformatics.oxfordjournals.org/content/23/19/2633.abstract}.
 
 \bibitem[Chia et~al.(2012)Chia, Song, Bradbury, Costich, de~Leon, Doebley,
   Elshire, Gaut, Geller, Glaubitz, Gore, Guill, Holland, Hufford, Lai, Li, Liu,
   Lu, McCombie, Nelson, Poland, Prasanna, Pyhajarvi, Rong, Sekhon, Sun,
   Tenaillon, Tian, Wang, Xu, Zhang, Kaeppler, Ross-Ibarra, McMullen, Buckler,
   Zhang, Xu, and Ware]{Chia2012a}
-JM~Chia, C~Song, PJ~Bradbury, D~Costich, N~de~Leon, J~Doebley, RJ~Elshire,
-  B~Gaut, L~Geller, JC~Glaubitz, M~Gore, KE~Guill, J~Holland, MB~Hufford,
-  J~Lai, M~Li, X~Liu, Y~Lu, R~McCombie, R~Nelson, J~Poland, BM~Prasanna,
-  T~Pyhajarvi, T~Rong, RS~Sekhon, Q~Sun, MI~Tenaillon, F~Tian, J~Wang, X~Xu,
-  Z~Zhang, SM~Kaeppler, J~Ross-Ibarra, MD~McMullen, ES~Buckler, G~Zhang, Y~Xu,
-  and D~Ware.
+J.~Chia, C.~Song, P.~Bradbury, D.~Costich, N.~de~Leon, J.~Doebley, R.~Elshire,
+  B.~Gaut, L.~Geller, J.~Glaubitz, M.~Gore, K.~Guill, J.~Holland, M.~Hufford,
+  J.~Lai, M.~Li, X.~Liu, Y.~Lu, R.~McCombie, R.~Nelson, J.~Poland, B.~Prasanna,
+  T.~Pyhajarvi, T.~Rong, R.~Sekhon, Q.~Sun, M.~Tenaillon, F.~Tian, J.~Wang,
+  X.~Xu, Z.~Zhang, S.~Kaeppler, J.~Ross-Ibarra, M.~McMullen, E.~Buckler,
+  G.~Zhang, Y.~Xu, and D.~Ware.
 \newblock Maize hapmap2 identifies extant variation from a genome in flux.
 \newblock \emph{Nat Genet}, 44\penalty0 (7):\penalty0 803--807, 2012.
 
 \bibitem[Consortium(2012)]{consortiumbutterfly2012}
-The Heliconius~Genome Consortium.
+T.~H.~G. Consortium.
 \newblock Butterfly genome reveals promiscuous exchange of mimicry adaptations
   among species.
 \newblock \emph{Nature}, 487\penalty0 (7405):\penalty0 94--98, 2012.
-\newblock \doi{10.1038/nature11041}.
-\newblock URL \url{http://dx.doi.org/10.1038/nature11041}.
 
 \bibitem[Delmore et~al.(2013)Delmore, Brenneman, Lei, Bailey, Brelsford, Louis,
   and Johnson]{Delmore2013}
@@ -66,18 +58,15 @@ K.~E. Delmore, R.~A. Brenneman, R.~Lei, C.~A. Bailey, A.~Brelsford, E.~E.
   Combining morphological, genetic and climatic data to examine stability.
 \newblock \emph{Journal of Evolutionary Biology}, 26\penalty0 (8):\penalty0
   1677--1690, 2013.
-\newblock \doi{10.1111/jeb.12178}.
 
 \bibitem[D\'{i}ez et~al.(2013)D\'{i}ez, Gaut, Meca, Scheinvar,
   Montes-Hernandez, Eguiarte, and Tenaillon]{Diez2013}
-Concepción~M. D\'{i}ez, Brandon~S. Gaut, Esteban Meca, Enrique Scheinvar,
-  Salvador Montes-Hernandez, Luis~E. Eguiarte, and Maud~I. Tenaillon.
+C.~M. D\'{i}ez, B.~S. Gaut, E.~Meca, E.~Scheinvar, S.~Montes-Hernandez, L.~E.
+  Eguiarte, and M.~I. Tenaillon.
 \newblock Genome size variation in wild and cultivated maize along altitudinal
   gradients.
 \newblock \emph{New Phytologist}, 199\penalty0 (1):\penalty0 264--276, 2013.
 \newblock ISSN 1469-8137.
-\newblock \doi{10.1111/nph.12247}.
-\newblock URL \url{http://dx.doi.org/10.1111/nph.12247}.
 
 \bibitem[Eagles and Lothrop(1994)]{Eagles1994}
 H.~A. Eagles and J.~E. Lothrop.
@@ -87,23 +76,23 @@ H.~A. Eagles and J.~E. Lothrop.
 
 \bibitem[Elshire et~al.(2011)Elshire, Glaubitz, Sun, Poland, Kawamoto, Buckler,
   and Mitchell]{Elshire2011}
-RJ~Elshire, JC~Glaubitz, Q~Sun, JA~Poland, K~Kawamoto, ES~Buckler, and
-  SE~Mitchell.
+R.~Elshire, J.~Glaubitz, Q.~Sun, J.~Poland, K.~Kawamoto, E.~Buckler, and
+  S.~Mitchell.
 \newblock A robust, simple genotyping-by-sequencing (gbs) approach for high
   diversity species.
 \newblock \emph{PLoS One}, 6\penalty0 (5):\penalty0 e19379, 2011.
 
 \bibitem[Fang et~al.(2012)Fang, Pyhajarvi, Weber, Dawe, Glaubitz, Gonzalez~Jde,
   Ross-Ibarra, Doebley, Morrell, and Ross-Ibarra]{Fang2012}
-Z~Fang, T~Pyhajarvi, AL~Weber, RK~Dawe, JC~Glaubitz, J~Gonzalez~Jde,
-  C~Ross-Ibarra, J~Doebley, PL~Morrell, and J~Ross-Ibarra.
+Z.~Fang, T.~Pyhajarvi, A.~Weber, R.~Dawe, J.~Glaubitz, J.~Gonzalez~Jde,
+  C.~Ross-Ibarra, J.~Doebley, P.~Morrell, and J.~Ross-Ibarra.
 \newblock Megabase-scale inversion polymorphism in the wild ancestor of maize.
 \newblock \emph{Genetics}, 191\penalty0 (3):\penalty0 883--894, 2012.
 
 \bibitem[Fukunaga et~al.(2005)Fukunaga, Hill, Vigouroux, Matsuoka, Sanchez,
   Liu, Buckler, and Doebley]{Fukunaga2005}
-K~Fukunaga, J~Hill, Y~Vigouroux, Y~Matsuoka, J~Sanchez, KJ~Liu, ES~Buckler, and
-  J~Doebley.
+K.~Fukunaga, J.~Hill, Y.~Vigouroux, Y.~Matsuoka, J.~Sanchez, K.~Liu,
+  E.~Buckler, and J.~Doebley.
 \newblock Genetic diversity and population structure of teosinte.
 \newblock \emph{Genetics}, 169\penalty0 (4):\penalty0 2241--2254, 2005.
 
@@ -115,37 +104,32 @@ J.~Galindo, M.~Mart√≠nez-Fern√°ndez, S.~T. Rodr√≠guez-Ramilo, and
   of ecological speciation in a marine snail.
 \newblock \emph{Journal of Evolutionary Biology}, 26\penalty0 (7):\penalty0
   1472--1487, 2013.
-\newblock \doi{10.1111/jeb.12152}.
 
 \bibitem[Glaubitz et~al.(2014)Glaubitz, Casstevens, Lu, Harriman, Elshire, Sun,
   and Buckler]{Glaubitz2014}
-Jeffrey~C. Glaubitz, Terry~M. Casstevens, Fei Lu, James Harriman, Robert~J.
-  Elshire, Qi~Sun, and Edward~S. Buckler.
+J.~C. Glaubitz, T.~M. Casstevens, F.~Lu, J.~Harriman, R.~J. Elshire, Q.~Sun,
+  and E.~S. Buckler.
 \newblock Tassel-gbs: A high capacity genotyping by sequencing analysis
   pipeline.
 \newblock \emph{PLoS ONE}, 9\penalty0 (2):\penalty0 e90346, 02 2014.
-\newblock \doi{10.1371/journal.pone.0090346}.
-\newblock URL \url{http://dx.doi.org/10.1371%2Fjournal.pone.0090346}.
 
 \bibitem[Gore et~al.(2009)Gore, Chia, Elshire, Sun, Ersoz, Hurwitz, Peiffer,
   McMullen, Grills, Ross-Ibarra, Ware, and Buckler]{Gore2009}
-MA~Gore, JM~Chia, RJ~Elshire, Q~Sun, ES~Ersoz, BL~Hurwitz, JA~Peiffer,
-  MD~McMullen, GS~Grills, J~Ross-Ibarra, DH~Ware, and ES~Buckler.
+M.~Gore, J.~Chia, R.~Elshire, Q.~Sun, E.~Ersoz, B.~Hurwitz, J.~Peiffer,
+  M.~McMullen, G.~Grills, J.~Ross-Ibarra, D.~Ware, and E.~Buckler.
 \newblock A first-generation haplotype map of maize.
 \newblock \emph{Science}, 326\penalty0 (5956):\penalty0 1115--1117, 2009.
 
 \bibitem[Grobman et~al.(2012)Grobman, Bonavia, Dillehay, Piperno, Iriarte, and
   Holst]{Grobman2012}
-Alexander Grobman, Duccio Bonavia, Tom~D. Dillehay, Dolores~R. Piperno, José
-  Iriarte, and Irene Holst.
+A.~Grobman, D.~Bonavia, T.~D. Dillehay, D.~R. Piperno, J.~Iriarte, and
+  I.~Holst.
 \newblock Preceramic maize from paredones and huaca prieta, peru.
 \newblock \emph{Proceedings of the National Academy of Sciences}, 109\penalty0
   (5):\penalty0 1755--1759, 2012.
-\newblock \doi{10.1073/pnas.1120270109}.
-\newblock URL \url{http://www.pnas.org/content/109/5/1755.abstract}.
 
 \bibitem[Guerrero and Kirkpatrick(2014)]{guerrero2014}
-Rafael~F Guerrero and Mark Kirkpatrick.
+R.~F. Guerrero and M.~Kirkpatrick.
 \newblock Local adaptation and the evolution of chromosome fusions.
 \newblock \emph{Evolution}, 2014.
 
@@ -157,53 +141,53 @@ R.~G. Harrison.
 
 \bibitem[Huerta-S{\'a}nchez et~al.(2014)Huerta-S{\'a}nchez, Jin, Bianba, Peter,
   Vinckenbosch, Liang, Yi, He, Somel, Ni, et~al.]{huerta2014}
-Emilia Huerta-S{\'a}nchez, Xin Jin, Zhuoma Bianba, Benjamin~M Peter, Nicolas
-  Vinckenbosch, Yu~Liang, Xin Yi, Mingze He, Mehmet Somel, Peixiang Ni, et~al.
+E.~Huerta-S{\'a}nchez, X.~Jin, Z.~Bianba, B.~M. Peter, N.~Vinckenbosch,
+  Y.~Liang, X.~Yi, M.~He, M.~Somel, P.~Ni, et~al.
 \newblock Altitude adaptation in tibetans caused by introgression of
   denisovan-like dna.
 \newblock \emph{Nature}, 2014.
 
-\bibitem[Hufford et~al.(2012{\natexlab{a}})Hufford, Mart{\'\i}nez-Meyer, Gaut,
-  Eguiarte, and Tenaillon]{hufford2012inferences}
-Matthew~B Hufford, Enrique Mart{\'\i}nez-Meyer, Brandon~S Gaut, Luis~E
-  Eguiarte, and Maud~I Tenaillon.
-\newblock Inferences from the historical distribution of wild and domesticated
-  maize provide ecological and evolutionary insight.
-\newblock \emph{PloS one}, 7\penalty0 (11):\penalty0 e47659,
-  2012{\natexlab{a}}.
-
-\bibitem[Hufford et~al.(2012{\natexlab{b}})Hufford, Bilinski, Pyhajarvi, and
+\bibitem[Hufford et~al.(2012{\natexlab{a}})Hufford, Bilinski, Pyhajarvi, and
   Ross-Ibarra]{Hufford2012}
-MB~Hufford, P~Bilinski, T~Pyhajarvi, and J~Ross-Ibarra.
+M.~Hufford, P.~Bilinski, T.~Pyhajarvi, and J.~Ross-Ibarra.
 \newblock Teosinte as a model system for population and ecological genomics.
 \newblock \emph{Trends Genet}, 28\penalty0 (12):\penalty0 606--615,
-  2012{\natexlab{b}}.
+  2012{\natexlab{a}}.
 
-\bibitem[Hufford et~al.(2012{\natexlab{c}})Hufford, Xu, van Heerwaarden,
+\bibitem[Hufford et~al.(2012{\natexlab{b}})Hufford, Xu, van Heerwaarden,
   Pyhajarvi, Chia, Cartwright, Elshire, Glaubitz, Guill, Kaeppler, Lai,
   Morrell, Shannon, Song, Springer, Swanson-Wagner, Tiffin, Wang, Zhang,
   Doebley, McMullen, Ware, Buckler, Yang, and Ross-Ibarra]{Hufford2012b}
-MB~Hufford, X~Xu, J~van Heerwaarden, T~Pyhajarvi, JM~Chia, RA~Cartwright,
-  RJ~Elshire, JC~Glaubitz, KE~Guill, SM~Kaeppler, J~Lai, PL~Morrell,
-  LM~Shannon, C~Song, NM~Springer, RA~Swanson-Wagner, P~Tiffin, J~Wang,
-  G~Zhang, J~Doebley, MD~McMullen, D~Ware, ES~Buckler, S~Yang, and
-  J~Ross-Ibarra.
+M.~Hufford, X.~Xu, J.~van Heerwaarden, T.~Pyhajarvi, J.~Chia, R.~Cartwright,
+  R.~Elshire, J.~Glaubitz, K.~Guill, S.~Kaeppler, J.~Lai, P.~Morrell,
+  L.~Shannon, C.~Song, N.~Springer, R.~Swanson-Wagner, P.~Tiffin, J.~Wang,
+  G.~Zhang, J.~Doebley, M.~McMullen, D.~Ware, E.~Buckler, S.~Yang, and
+  J.~Ross-Ibarra.
 \newblock Comparative population genomics of maize domestication and
   improvement.
 \newblock \emph{Nat Genet}, 44\penalty0 (7):\penalty0 808--811,
-  2012{\natexlab{c}}.
+  2012{\natexlab{b}}.
 
 \bibitem[Hufford et~al.(2013)Hufford, Lubinksy, Pyhajarvi, Devengenzo,
   Ellstrand, and Ross-Ibarra]{Hufford2013}
-MB~Hufford, P~Lubinksy, T~Pyhajarvi, MT~Devengenzo, NC~Ellstrand, and
-  J~Ross-Ibarra.
+M.~Hufford, P.~Lubinksy, T.~Pyhajarvi, M.~Devengenzo, N.~Ellstrand, and
+  J.~Ross-Ibarra.
 \newblock The genomic signature of crop-wild introgression in maize.
 \newblock \emph{PLoS Genetics}, 9\penalty0 (5):\penalty0 e1003477, 2013.
 
+\bibitem[Hufford et~al.(2012{\natexlab{c}})Hufford, Mart{\'\i}nez-Meyer, Gaut,
+  Eguiarte, and Tenaillon]{hufford2012inferences}
+M.~B. Hufford, E.~Mart{\'\i}nez-Meyer, B.~S. Gaut, L.~E. Eguiarte, and M.~I.
+  Tenaillon.
+\newblock Inferences from the historical distribution of wild and domesticated
+  maize provide ecological and evolutionary insight.
+\newblock \emph{PloS one}, 7\penalty0 (11):\penalty0 e47659,
+  2012{\natexlab{c}}.
+
 \bibitem[Kanizay et~al.(2013)Kanizay, Pyhajarvi, Lowry, Hufford, Peterson,
   Ross-Ibarra, and Dawe]{Kanizay2013}
-LB~Kanizay, T~Pyhajarvi, EG~Lowry, MB~Hufford, DG~Peterson, J~Ross-Ibarra, and
-  RK~Dawe.
+L.~Kanizay, T.~Pyhajarvi, E.~Lowry, M.~Hufford, D.~Peterson, J.~Ross-Ibarra,
+  and R.~Dawe.
 \newblock Diversity and abundance of the abnormal chromosome 10 meiotic drive
   complex in zea mays.
 \newblock \emph{Heredity (Edinb)}, 110\penalty0 (6):\penalty0 570--577, 2013.
@@ -216,8 +200,6 @@ M.~Karhunen, J.~Merilä, T.~Leinonen, J.~M. Cano, and O.~Ovaskainen.
 \newblock \emph{Molecular Ecology Resources}, 13\penalty0 (4):\penalty0
   746--754, 2013.
 \newblock ISSN 1755-0998.
-\newblock \doi{10.1111/1755-0998.12111}.
-\newblock URL \url{http://dx.doi.org/10.1111/1755-0998.12111}.
 
 \bibitem[Kruuk et~al.(1999)Kruuk, Baird, Gale, and Barton]{Kruuk1999}
 L.~E.~B. Kruuk, S.~J.~E. Baird, K.~S. Gale, and N.~H. Barton.
@@ -226,15 +208,14 @@ L.~E.~B. Kruuk, S.~J.~E. Baird, K.~S. Gale, and N.~H. Barton.
 \newblock \emph{Genetics}, 153\penalty0 (4):\penalty0 1959--1971, 1999.
 
 \bibitem[Lawson et~al.(2012)Lawson, Hellenthal, Myers, and Falush]{lawson2012}
-Daniel~John Lawson, Garrett Hellenthal, Simon Myers, and Daniel Falush.
+D.~J. Lawson, G.~Hellenthal, S.~Myers, and D.~Falush.
 \newblock Inference of population structure using dense haplotype data.
 \newblock \emph{PLoS Genet}, 8\penalty0 (1):\penalty0 e1002453, 01 2012.
-\newblock \doi{10.1371/journal.pgen.1002453}.
-\newblock URL \url{http://dx.doi.org/10.1371%2Fjournal.pgen.1002453}.
 
 \bibitem[Matsuoka et~al.(2002)Matsuoka, Vigouroux, Goodman, Sanchez, Buckler,
   and Doebley]{Matsuoka2002}
-Y~Matsuoka, Y~Vigouroux, MM~Goodman, G~J Sanchez, E~Buckler, and J~Doebley.
+Y.~Matsuoka, Y.~Vigouroux, M.~Goodman, G.~J. Sanchez, E.~Buckler, and
+  J.~Doebley.
 \newblock A single domestication for maize shown by multilocus microsatellite
   genotyping.
 \newblock \emph{Proc Natl Acad Sci U S A}, 99\penalty0 (9):\penalty0
@@ -243,27 +224,24 @@ Y~Matsuoka, Y~Vigouroux, MM~Goodman, G~J Sanchez, E~Buckler, and J~Doebley.
 \bibitem[Melters et~al.(2013)Melters, Bradnam, Young, Telis, May, Ruby, Sebra,
   Peluso, Eid, Rank, Garcia, Derisi, Smith, Tobias, Ross-Ibarra, Korf, and
   Chan]{Melters2013a}
-DP~Melters, KR~Bradnam, HA~Young, N~Telis, MR~May, JG~Ruby, R~Sebra, P~Peluso,
-  J~Eid, D~Rank, JF~Garcia, JL~Derisi, T~Smith, C~Tobias, J~Ross-Ibarra,
-  I~Korf, and SW~Chan.
+D.~Melters, K.~Bradnam, H.~Young, N.~Telis, M.~May, J.~Ruby, R.~Sebra,
+  P.~Peluso, J.~Eid, D.~Rank, J.~Garcia, J.~Derisi, T.~Smith, C.~Tobias,
+  J.~Ross-Ibarra, I.~Korf, and S.~Chan.
 \newblock Comparative analysis of tandem repeats from hundreds of species
   reveals unique insights into centromere evolution.
 \newblock \emph{Genome Biol}, 14\penalty0 (1):\penalty0 R10, 2013.
 
 \bibitem[Mezmouk and Ross-Ibarra(2014)]{Mezmouk2014}
-S~Mezmouk and J~Ross-Ibarra.
+S.~Mezmouk and J.~Ross-Ibarra.
 \newblock The pattern and distribution of deleterious mutations in maize.
 \newblock \emph{G3 (Bethesda)}, 4\penalty0 (1):\penalty0 163--171, 2014.
 
 \bibitem[Ovaskainen et~al.(2011)Ovaskainen, Karhunen, Zheng, Arias, and
   Merilä]{Ovaskainen2011}
-Otso Ovaskainen, Markku Karhunen, Chaozhi Zheng, José Manuel~Cano Arias, and
-  Juha Merilä.
+O.~Ovaskainen, M.~Karhunen, C.~Zheng, J.~M.~C. Arias, and J.~Merilä.
 \newblock A new method to uncover signatures of divergent and stabilizing
   selection in quantitative traits.
 \newblock \emph{Genetics}, 189\penalty0 (2):\penalty0 621--632, 2011.
-\newblock \doi{10.1534/genetics.111.129387}.
-\newblock URL \url{http://www.genetics.org/content/189/2/621.abstract}.
 
 \bibitem[Parchman et~al.(2013)Parchman, Gompert, Braun, Brumfield, McDonald,
   Uy, Zhang, Jarvis, Schlinger, and Buerkle]{Parchman2013}
@@ -273,19 +251,18 @@ T.~L. Parchman, Z.~Gompert, M.~J. Braun, R.~T. Brumfield, D.~B. McDonald,
   isolation between species of manakins.
 \newblock \emph{Molecular Ecology}, 22\penalty0 (12):\penalty0 3304--3317,
   2013.
-\newblock \doi{10.1111/mec.12201}.
 
 \bibitem[Peiffer et~al.(2013)Peiffer, Flint-Garcia, De~Leon, McMullen,
   Kaeppler, and Buckler]{peiffer2013genetic}
-JA~Peiffer, SA~Flint-Garcia, N~De~Leon, MD~McMullen, SM~Kaeppler, and
-  ES~Buckler.
+J.~Peiffer, S.~Flint-Garcia, N.~De~Leon, M.~McMullen, S.~Kaeppler, and
+  E.~Buckler.
 \newblock The genetic architecture of maize stalk strength.
 \newblock \emph{PloS one}, 8\penalty0 (6):\penalty0 e67066, 2013.
 
 \bibitem[Peiffer et~al.(2014)Peiffer, Romay, Gore, Flint-Garcia, Zhang,
   Millard, Gardner, McMullen, Holland, Bradbury, and Buckler]{Peiffer2014}
-JA~Peiffer, MC~Romay, MA~Gore, SA~Flint-Garcia, Z~Zhang, MJ~Millard,
-  CA~Gardner, MD~McMullen, JB~Holland, PJ~Bradbury, and ES~Buckler.
+J.~Peiffer, M.~Romay, M.~Gore, S.~Flint-Garcia, Z.~Zhang, M.~Millard,
+  C.~Gardner, M.~McMullen, J.~Holland, P.~Bradbury, and E.~Buckler.
 \newblock The genetic architecture of maize height.
 \newblock \emph{Genetics}, 2014.
 
@@ -295,8 +272,6 @@ D.~R. Piperno and K.~V. Flannery.
   New accelerator mass spectrometry dates and their implications.
 \newblock \emph{Proceedings of the National Academy of Sciences}, 98\penalty0
   (4):\penalty0 2101--2103, 2001.
-\newblock \doi{10.1073/pnas.98.4.2101}.
-\newblock URL \url{http://www.pnas.org/content/98/4/2101.abstract}.
 
 \bibitem[Poelstra et~al.(2014)Poelstra, Vijay, Bossu, Lantz, Ryll, Müller,
   Baglione, Unneberg, Wikelski, Grabherr, and Wolf]{Poelstra2014}
@@ -305,47 +280,41 @@ J.~W. Poelstra, N.~Vijay, C.~M. Bossu, H.~Lantz, B.~Ryll, I.~Müller,
 \newblock The genomic landscape underlying phenotypic integrity in the face of
   gene flow in crows.
 \newblock \emph{Science}, 344\penalty0 (6190):\penalty0 1410--1414, 2014.
-\newblock \doi{10.1126/science.1253226}.
-\newblock URL \url{http://www.sciencemag.org/content/344/6190/1410.abstract}.
 
 \bibitem[Price et~al.(2009)Price, Tandon, Patterson, Barnes, Rafaels,
   Ruczinski, Beaty, Mathias, Reich, and Myers]{price2009}
-AL~Price, A~Tandon, N~Patterson, KC~Barnes, N~Rafaels, I~Ruczinski, TH~Beaty,
-  R~Mathias, D~Reich, and S~Myers.
+A.~Price, A.~Tandon, N.~Patterson, K.~Barnes, N.~Rafaels, I.~Ruczinski,
+  T.~Beaty, R.~Mathias, D.~Reich, and S.~Myers.
 \newblock Sensitive detection of chromosomal segments of distinct ancestry in
   admixed populations.
 \newblock \emph{PLoS Genetics}, 5\penalty0 (6):\penalty0 e1000519, 2009.
 
 \bibitem[Pritchard et~al.(2000)Pritchard, Stephens, and
   Donnelly]{Pritchard2000}
-Jonathan~K. Pritchard, Matthew Stephens, and Peter Donnelly.
+J.~K. Pritchard, M.~Stephens, and P.~Donnelly.
 \newblock Inference of population structure using multilocus genotype data.
 \newblock \emph{Genetics}, 155\penalty0 (2):\penalty0 945--959, 2000.
 
 \bibitem[Pyhajarvi et~al.(2013)Pyhajarvi, Hufford, Mezmouk, and
   Ross-Ibarra]{Pyhajarvi2013}
-T~Pyhajarvi, MB~Hufford, S~Mezmouk, and J~Ross-Ibarra.
+T.~Pyhajarvi, M.~Hufford, S.~Mezmouk, and J.~Ross-Ibarra.
 \newblock Complex patterns of local adaptation in teosinte.
 \newblock \emph{Genome Biol Evol}, 5\penalty0 (9):\penalty0 1594--1609, 2013.
 
 \bibitem[Rasmussen et~al.(2012)Rasmussen, Robinson, Hontela, and
   Heath]{Rasmussen2012}
-Josepth~B. Rasmussen, Michael~D. Robinson, Alice Hontela, and Daniel~D. Heath.
+J.~B. Rasmussen, M.~D. Robinson, A.~Hontela, and D.~D. Heath.
 \newblock Metabolic traits of westslope cutthroat trout, introduced rainbow
   trout and their hybrids in an ecotonal hybrid zone along an elevation
   gradient.
 \newblock \emph{Biological Journal of the Linnean Society}, 105\penalty0
   (1):\penalty0 56--72, 2012.
-\newblock \doi{10.1111/j.1095-8312.2011.01768.x}.
 
 \bibitem[Reich et~al.(2009)Reich, Thangaraj, Patterson, Price, and
   Singh]{reich2009}
-David Reich, Kumarasamy Thangaraj, Nick Patterson, Alkes~L. Price, and Lalji
-  Singh.
+D.~Reich, K.~Thangaraj, N.~Patterson, A.~L. Price, and L.~Singh.
 \newblock Reconstructing indian population history.
 \newblock \emph{Nature}, 461\penalty0 (7263):\penalty0 489--494, 2009.
-\newblock \doi{10.1038/nature08365}.
-\newblock URL \url{http://dx.doi.org/10.1038/nature08365}.
 
 \bibitem[Renaut et~al.(2013)Renaut, Grassa, Yeaman, Moyers, Lai, Kane, Bowers,
   Burke, and Rieseberg]{renaut2013}
@@ -354,8 +323,6 @@ S.~Renaut, C.~J. Grassa, S.~Yeaman, B.~T. Moyers, Z.~Lai, N.~C. Kane, J.~E.
 \newblock Genomic islands of divergence are not affected by geography of
   speciation in sunflowers.
 \newblock \emph{Nature Communications}, 4:\penalty0 1827--, 2013.
-\newblock \doi{10.1038/ncomms2833}.
-\newblock URL \url{http://dx.doi.org/10.1038/ncomms2833}.
 
 \bibitem[Rodriguez et~al.({2006})Rodriguez, Sanchez, Baltazar, De~la Cruz,
   Santacruz-Ruvalcaba, Ron, and Schoper]{Rodriguez2006}
@@ -369,57 +336,53 @@ J.~G. Rodriguez, J.~J. Sanchez, B.~Baltazar, L.~De~la Cruz,
 \bibitem[Romay et~al.(2013)Romay, Millard, Glaubitz, Peiffer, Swarts,
   Casstevens, Elshire, Acharya, Mitchell, Flint-Garcia, McMullen, Holland,
   Buckler, and Gardner]{Romay2013}
-MC~Romay, MJ~Millard, JC~Glaubitz, JA~Peiffer, KL~Swarts, TM~Casstevens,
-  RJ~Elshire, CB~Acharya, SE~Mitchell, SA~Flint-Garcia, MD~McMullen,
-  JB~Holland, ES~Buckler, and CA~Gardner.
+M.~Romay, M.~Millard, J.~Glaubitz, J.~Peiffer, K.~Swarts, T.~Casstevens,
+  R.~Elshire, C.~Acharya, S.~Mitchell, S.~Flint-Garcia, M.~McMullen,
+  J.~Holland, E.~Buckler, and C.~Gardner.
 \newblock Comprehensive genotyping of the usa national maize inbred seed bank.
 \newblock \emph{Genome Biol}, 14\penalty0 (6):\penalty0 R55, 2013.
 
 \bibitem[Ross-Ibarra et~al.(2009)Ross-Ibarra, Tenaillon, and
   Gaut]{Ross-Ibarra2009a}
-J~Ross-Ibarra, M~Tenaillon, and BS~Gaut.
+J.~Ross-Ibarra, M.~Tenaillon, and B.~Gaut.
 \newblock Historical divergence and gene flow in the genus zea.
 \newblock \emph{Genetics}, 181\penalty0 (4):\penalty0 1399--1413, 2009.
 
 \bibitem[Saghai-Maroof et~al.(1984)Saghai-Maroof, Soliman, Jorgensen, and
   Allard]{Saghai-Maroof1984}
-M~A Saghai-Maroof, K~M Soliman, R~A Jorgensen, and R~W Allard.
+M.~A. Saghai-Maroof, K.~M. Soliman, R.~A. Jorgensen, and R.~W. Allard.
 \newblock Ribosomal dna spacer-length polymorphisms in barley: mendelian
   inheritance, chromosomal location, and population dynamics.
 \newblock \emph{Proceedings of the National Academy of Sciences}, 81\penalty0
   (24):\penalty0 8014--8018, 1984.
-\newblock URL \url{http://www.pnas.org/content/81/24/8014.abstract}.
 
 \bibitem[Shi et~al.(2010)Shi, Wolf, Burke, Presting, Ross-Ibarra, and
   Dawe]{Shi2010a}
-J~Shi, SE~Wolf, JM~Burke, GG~Presting, J~Ross-Ibarra, and RK~Dawe.
+J.~Shi, S.~Wolf, J.~Burke, G.~Presting, J.~Ross-Ibarra, and R.~Dawe.
 \newblock Widespread gene conversion in centromere cores.
 \newblock \emph{PLoS Biol}, 8\penalty0 (3):\penalty0 e1000327, 2010.
 
 \bibitem[Smith et~al.(2013{\natexlab{a}})Smith, Hale, Gay, Kearney, Austin,
   Parris, and Melville]{Smith2013a}
-Katie~L. Smith, Joshua~M. Hale, Laur√®ne Gay, Michael Kearney, Jeremy~J.
-  Austin, Kirsten~M. Parris, and Jane Melville.
+K.~L. Smith, J.~M. Hale, L.~Gay, M.~Kearney, J.~J. Austin, K.~M. Parris, and
+  J.~Melville.
 \newblock Spatio-temporal changes in the structure of an australian frog hybrid
   zone: A 40-year perspective.
 \newblock \emph{Evolution}, 67\penalty0 (12):\penalty0 3442--3454,
   2013{\natexlab{a}}.
-\newblock \doi{10.1111/evo.12140}.
 
 \bibitem[Smith et~al.(2013{\natexlab{b}})Smith, Hale, Kearney, Austin, and
   Melville]{Smith2013b}
-Katie~L. Smith, Joshua~M. Hale, Michael~R. Kearney, Jeremy~J. Austin, and Jane
-  Melville.
+K.~L. Smith, J.~M. Hale, M.~R. Kearney, J.~J. Austin, and J.~Melville.
 \newblock Molecular patterns of introgression in a classic hybrid zone between
   the australian tree frogs, litoria ewingii and l.¬†paraewingi: evidence of a
   tension zone.
 \newblock \emph{Molecular Ecology}, 22\penalty0 (7):\penalty0 1869--1883,
   2013{\natexlab{b}}.
-\newblock \doi{10.1111/mec.12176}.
 
 \bibitem[Sood et~al.(2014)Sood, Flint-Garcia, Willcox, and
   Holland]{sood2014mining}
-S~Sood, S~Flint-Garcia, MC~Willcox, and JB~Holland.
+S.~Sood, S.~Flint-Garcia, M.~Willcox, and J.~Holland.
 \newblock Mining natural variation for maize improvement: Selection on
   phenotypes and genes.
 \newblock In \emph{Genomics of Plant Genetic Resources}, pages 615--649.
@@ -427,16 +390,13 @@ S~Sood, S~Flint-Garcia, MC~Willcox, and JB~Holland.
 
 \bibitem[Staubach et~al.(2012)Staubach, Lorenc, Messer, Tang, Petrov, and
   Tautz]{staubach2012}
-Fabian Staubach, Anna Lorenc, Philipp~W. Messer, Kun Tang, Dmitri~A. Petrov,
-  and Diethard Tautz.
+F.~Staubach, A.~Lorenc, P.~W. Messer, K.~Tang, D.~A. Petrov, and D.~Tautz.
 \newblock Genome patterns of selection and introgression of haplotypes in
   natural populations of the house mouse (<italic>mus musculus</italic>).
 \newblock \emph{PLoS Genet}, 8\penalty0 (8):\penalty0 e1002891, 08 2012.
-\newblock \doi{10.1371/journal.pgen.1002891}.
-\newblock URL \url{http://dx.doi.org/10.1371%2Fjournal.pgen.1002891}.
 
 \bibitem[Stebbins(1959)]{Stebbins1959}
-G.~Ledyard Stebbins.
+G.~L. Stebbins.
 \newblock The role of hybridization in evolution.
 \newblock \emph{Proceedings of the American Philosophical Society},
   103\penalty0 (2):\penalty0 231--251, 1959.
@@ -444,8 +404,8 @@ G.~Ledyard Stebbins.
 \bibitem[van Heerwaarden et~al.(2011)van Heerwaarden, Doebley, Briggs,
   Glaubitz, Goodman, de~Jesus Sanchez~Gonzalez, and
   Ross-Ibarra]{vanheerwaarden2011a}
-J~van Heerwaarden, J~Doebley, WH~Briggs, JC~Glaubitz, MM~Goodman, J~de~Jesus
-  Sanchez~Gonzalez, and J~Ross-Ibarra.
+J.~van Heerwaarden, J.~Doebley, W.~Briggs, J.~Glaubitz, M.~Goodman, J.~de~Jesus
+  Sanchez~Gonzalez, and J.~Ross-Ibarra.
 \newblock Genetic signals of origin, spread, and introgression in a large
   sample of maize landraces.
 \newblock \emph{Proc Natl Acad Sci U S A}, 108\penalty0 (3):\penalty0
@@ -453,19 +413,23 @@ J~van Heerwaarden, J~Doebley, WH~Briggs, JC~Glaubitz, MM~Goodman, J~de~Jesus
 
 \bibitem[Vigouroux et~al.(2008)Vigouroux, Glaubitz, Matsuoka, Goodman, Sanchez,
   and Doebley]{Vigouroux2008a}
-Y~Vigouroux, JC~Glaubitz, Y~Matsuoka, MM~Goodman, G~J Sanchez, and J~Doebley.
+Y.~Vigouroux, J.~Glaubitz, Y.~Matsuoka, M.~Goodman, G.~J. Sanchez, and
+  J.~Doebley.
 \newblock Population structure and genetic diversity of new world maize races
   assessed by dna microsatellites.
 \newblock \emph{Am J Bot}, 95\penalty0 (10):\penalty0 1240--1253, 2008.
 
 \bibitem[Vitti et~al.(2013)Vitti, Grossman, and Sabeti]{Vitti2013}
-Joseph~J. Vitti, Sharon~R. Grossman, and Pardis~C. Sabeti.
+J.~J. Vitti, S.~R. Grossman, and P.~C. Sabeti.
 \newblock Detecting natural selection in genomic data.
 \newblock \emph{Annual Review of Genetics}, 47\penalty0 (1):\penalty0 97--120,
   2013.
-\newblock \doi{10.1146/annurev-genet-111212-133526}.
-\newblock URL \url{http://dx.doi.org/10.1146/annurev-genet-111212-133526}.
 \newblock PMID: 24274750.
+
+\bibitem[Wilkes(1967)]{wilkes1967teosinte}
+H.~Wilkes.
+\newblock Teosinte: the closest relative of maize.
+\newblock \emph{Teosinte: the closest relative of maize.}, 1967.
 
 \bibitem[Wilkes(1977)]{Wilkes1977}
 H.~G. Wilkes.
@@ -473,15 +437,10 @@ H.~G. Wilkes.
   improvement of maize.
 \newblock \emph{Economic Botany}, 31\penalty0 (3):\penalty0 254--293, 1977.
 
-\bibitem[Wilkes(1967)]{wilkes1967teosinte}
-HG~Wilkes.
-\newblock Teosinte: the closest relative of maize.
-\newblock \emph{Teosinte: the closest relative of maize.}, 1967.
-
 \bibitem[Wills et~al.(2013)Wills, Whipple, Takuno, Kursel, Shannon,
   Ross-Ibarra, and Doebley]{wills2013many}
-DM~Wills, CJ~Whipple, S~Takuno, LE~Kursel, LM~Shannon, J~Ross-Ibarra, and
-  JF~Doebley.
+D.~Wills, C.~Whipple, S.~Takuno, L.~Kursel, L.~Shannon, J.~Ross-Ibarra, and
+  J.~Doebley.
 \newblock From many, one: Genetic control of prolificacy during maize
   domestication.
 \newblock \emph{PLoS Genetics}, 9\penalty0 (6):\penalty0 e1003604, 2013.

@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2012)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: nsfmaster.aux
-The style file: plainnat.bst
+The style file: abbrvnat.bst
 A level-1 auxiliary file: nsfsumm.aux
 A level-1 auxiliary file: nsfdesc.aux
 A level-1 auxiliary file: nsfref.aux
@@ -14,19 +14,18 @@ A level-1 auxiliary file: a2_management.aux
 A level-1 auxiliary file: a6_gradundergrad.aux
 Database file #1: references.bib
 Warning--I didn't find a database entry for "("
-Warning--I didn't find a database entry for "XXX"
 You've used 58 entries,
             2773 wiz_defined-function locations,
-            1032 strings with 19939 characters,
-and the built_in function-call counts, 39906 in all, are:
-= -- 3259
+            993 strings with 18392 characters,
+and the built_in function-call counts, 39388 in all, are:
+= -- 3148
 > -- 3639
 < -- 13
 + -- 1220
 - -- 1159
-* -- 3980
-:= -- 6453
-add.period$ -- 217
+* -- 3906
+:= -- 6342
+add.period$ -- 180
 call.type$ -- 58
 change.case$ -- 559
 chr.to.int$ -- 55
@@ -34,13 +33,13 @@ cite$ -- 116
 duplicate$ -- 1224
 empty$ -- 2357
 format.name$ -- 1227
-if$ -- 8024
+if$ -- 7913
 int.to.chr$ -- 4
 int.to.str$ -- 1
 missing$ -- 58
-newline$ -- 339
+newline$ -- 302
 num.names$ -- 234
-pop$ -- 986
+pop$ -- 1023
 preamble$ -- 1
 purify$ -- 501
 quote$ -- 0
@@ -55,5 +54,5 @@ type$ -- 638
 warning$ -- 0
 while$ -- 239
 width$ -- 0
-write$ -- 841
-(There were 2 warnings)
+write$ -- 767
+(There was 1 warning)
