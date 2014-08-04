@@ -3,9 +3,9 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: nsfdesc.aux
 I found no \bibdata command---while reading file nsfdesc.aux
 I found no \bibstyle command---while reading file nsfdesc.aux
-You've used 75 entries,
+You've used 76 entries,
             0 wiz_defined-function locations,
-            201 strings with 1886 characters,
+            202 strings with 1892 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
