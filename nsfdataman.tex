@@ -1,7 +1,7 @@
 \setcounter{page}{1}
-\renewcommand{\thepage}{Data Management Plan - Page \arabic{page} of 1}
+\renewcommand{\thepage}{Data Management Plan - Page \arabic{page} of 2}
 %\required{Supplementary Documentation}
-%\required{Data Management Plan}
+\required{Data Management Plan}
 %\begin{center}
 %\emph{Maximum of 2 pages}
 %\end{center}•
@@ -47,4 +47,26 @@
 %In case of a multi-institutional proposal, the lead institution is responsible for coordinating and managing the intellectual property resulting from the PGRP award. Institutions participating in multi-institutional projects should formulate a coherent plan for the project prior to submission of the proposal.
 %
 
-SEE APPENDIX A-1 UPLOADED AS A SUPPLEMENTARY DOCUMENT
+\subsection*{Data Types}
+
+This proposal will generate genotype and full-genome sequence data, phenotype data, analytical code, germplasm, and publications.
+
+\subsection*{Data Archiving, Plan for Sharing, Public Access Policy}
+
+\paragraph{Genotype and Sequence Data} 
+All data will be made publicly available and stored online.  However, prior to public release, all data will be hosted locally.  Drs. Hufford and Ross-Ibarra will maintain a backup of all raw genotyping and sequencing data.  Dr. Hufford has access to 144Tb of free data storage through the College of Liberal Arts and Sciences at Iowa State and Dr. Ross-Ibarra maintains a DROBO distributed backup server (currently $>8$Tb of free space) which is robust to single disk failure. All sequence data (whole genome sequencing, and fastq files from genotyping by sequencing) will be submitted immediately upon completion of data quality control to the NCBI sequence read archive (SRA), along with passport information on each parent. A "hold until publication" embargo will be requested at the SRA. Just prior to publication, genotypes will be made publicly available via the Figshare website (\url{www.figshare.com}), a free public website allowing dissemination and archiving of large datasets. Data will be released in accordance with the Toronto agreement (2009. Nature 461:168-170. \url{www.nature.com/nature/journal/v461/n7261/full/461168a.html}) under the stipulation that no whole-genome analyses be performed until we have published our initial analyses.
+
+\paragraph{Phenotype Data} 
+Phenotypic data will be recorded digitally in the field using a high-throughput technique developed by Dr. Sherry Flint-Garcia at USDA and the University of Missouri.  Data will be uploaded at the end of each day into the FieldBook database developed by Dr. Flint-Garcia and immediately backed up at a remote location. Data will be grouped into projects, and each project is associated with a unique digital object identifier (DOI). Phenotypic data will then be uploaded to Figshare, along with appropriate metadata associated with other publications, links to germplasm, SRA experiments, Github code, etc.  Data on Figshare are publicly available and searchable.  We will submit data as soon as we complete quality control, but again with explicit stipulations as to the analyses that the data can be used for prior to our initial publication. All appropriate metadata including plant ID, data collector, field location, etc. will be associated with phenotype data deposited to Figshare. 
+
+\paragraph{Analytical Software and Code} 
+Analytical software and code from this project will be hosted on Github, a version-controlled public git repository.  Upon submission of papers all code will be made publicly available.  Drs. Hufford and Ross-Ibarra have already done this extensively (see \url{https://github.com/mbhufford} and \url{https://github.com/rossibarra} and \url{https://github.com/rilab}. Publication of all code will ensure reproducibility of all analyses conducted.  All data and code will be made publicly available via a creative commons CC by 2.0 license \url{http://creativecommons.org/licenses/by/2.0/} allowing free access to reuse, redistribute, and modify, requiring only citation of the license and the original source.
+
+\paragraph{Germplasm} 
+Sample accession data will be securely stored in MySQL servers hosted at Iowa State University and the University of California, Davis and backed up on a weekly basis offsite.  International agreements prohibit some of the maize and teosinte germplasm collected in Mexico and Guatemala from being stored and distributed by USDA.  We will, however, deposit small quantities of seed from all our collections with the CIMMYT germplasm bank in Mexico, which provides public access to seed.
+
+\paragraph{Publications} 
+All publications resulting from this project will be submitted to one or more preprint servers (e.g. arXiv, bioRxiv, PeerJ) such that they will be publicly available immediately upon submission of the paper for publication.
+
+
+
