@@ -1,16 +1,17 @@
 NSF-DEB
 ====
 
-### Warning
-Still updating files; many are carried over from PGRP proposal.  New text is currently being imported.
-
 ### Files
+
+[reviews.md]((https://github.com/HuffordLab/NSF_DEB/blob/master/reviews.md)) - reviews from NSF panel
 
 nsfxxx - the template for each section of the NSF proposal.
 
-nsfmaster.tex - this is the only file that gets compiled
+[nsfmaster.tex](https://github.com/HuffordLab/NSF_DEB/blob/master/nsfmaster.tex) - this is the only file that gets compiled
 
-readme.txt - describes these template filesf
+[nsfmaster.pdf](https://github.com/HuffordLab/NSF_DEB/blob/master/nsfmaster.pdf) - submitted proposal
+
+[readme.txt](https://github.com/HuffordLab/NSF_DEB/blob/master/readme.txt) - describes these template filesf
 
 
 
