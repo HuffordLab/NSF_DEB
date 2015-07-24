@@ -1,23 +1,34 @@
-\documentclass[11pt]{article}
-\usepackage{times}
+\documentclass[10pt]{article}
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
 \usepackage{ucs}
 \usepackage[utf8x]{inputenc} 
 \usepackage{url}
 \usepackage[top=2.54cm, bottom=2.54cm, left=2.54cm, right=2.54cm]{geometry}
 \usepackage{hyperref}
 \usepackage{setspace} 
-
-\setstretch{1} 
-
-\renewcommand{\thesection}{(\alph{section})}
 \newcommand{\ignore}[1]{}
+\onehalfspacing
+\setstretch{1} 
+\usepackage[explicit]{titlesec}
+\usepackage[normalem]{ulem} 
+
+\titleformat{\section}{\normalfont}{}{0pt}{\textbf{(\alph{section}) #1}}
+%\titleformat{⟨command⟩}[⟨shape⟩]{⟨format⟩}{⟨label⟩}{⟨sep⟩}{⟨before-code⟩}[⟨after-code⟩]
+\titleformat{\subsection}
+  {\normalfont}{\thesubsection}{1em}{\uline{#1}}
+%\usepackage{helvet}
+%\renewcommand{\familydefault}{\sfdefault}
+
+%\titleformat{\section}
+%  {\normalfont\textbf}{}{}{(\alph{section})\,}
+%\renewcommand{\thesection}{(\alph{section})}
+%\renewcommand{\thesubsection}{(\uline{subsection})}
 
 \begin{document}
 
 \begin{center}
-	\begin{Large}
-		\sf\textbf{\uppercase{Biographical Sketch --- Jeffrey Ross-Ibarra}}
-	\end{Large}
+		\sf\textbf{{Biographical Sketch --- Jeffrey Ross-Ibarra}}
 \end{center}
 %\begin{minipage}{0.55\linewidth}
 %  \href{http://www.plantsciences.ucdavis.edu/plantsciences/}Department of Plant Sciences\\
@@ -45,22 +56,19 @@
 \begin{tabular}{l l l l}
 Institution    \hspace{52mm}              &   Area  \hspace{10mm}     & Degree / Training  \hspace{13mm}    & Dates \\
 \hline
-University of California Riverside & Botany & BA & 1998 \\
-University of California Riverside & Botany & MS & 2000 \\
+University of California Riverside & Botany & BA, MS & 1998, 2000 \\
 University of Georgia & Genetics & PhD & 2006\\
-University of California Irvine & Genetics & Postdoctoral Research & 2006--2008 \\
-\hline 
+University of California Irvine & Genetics & Postdoctoral Research & 2008 \\
 \end{tabular}
 
 \section{Professional Appointments}
 
 \begin{tabular}{l l l}
-Institution                              & Position                 & Dates\\
+Position & Institution                 & Dates\\
 \hline
 Associate Professor & University of California Davis &		2012-present \\
 Assistant Professor & University of California Davis &		2009-2012 \\
 Profesor de Asignatura & Universidad Nacional Aut\'{o}noma de M\'{e}xico & 2001 \\
-\hline
 \end{tabular}
 
 \section{Products}
@@ -69,14 +77,13 @@ Profesor de Asignatura & Universidad Nacional Aut\'{o}noma de M\'{e}xico & 2001 
 
 \begin{itemize} \setlength{\itemsep}{0pt} \setlength{\parskip}{2pt} \setlength{\parsep}{0pt}
 
-\item Pyh\"aj\"arvi T, Hufford MB, Mezmouk S, {\bf Ross-Ibarra J} (2013) Complex patterns of local adaptation in teosinte. \textsc{Genome Biology and Evolution} \emph{In Press: Online Early Access}
+\item Fonseca RR, Smith B, Wales N, Cappellini E, Skoglund P, Fumagalli M, Samaniego JA, Caroe C, Avila-Arcos MC, Hufnagel D, Korneliussen TS, Vieira FG, Jakobsson M, Arriaza B, Willerslev E, Nielsen R, Hufford MB, Albrechtsen A,  {\bf Ross-Ibarra J}, Gilbert MT (2015) The origin and evolution of maize in the American Southwest. \textsc{Nature Plants} 1(1)
 
-\item Hufford MB, Lubinsky P, Pyh\"aj\"arvi T, Devengenzo MT, Ellstrand NC, {\bf Ross-Ibarra J} (2013) The genomic signature of crop-wild introgression in maize. \textsc{PLoS Genetics} 9(5): e1003477. %Preprint: \emph{http://arxiv.org/abs/1208.3894}
+\item Hufford MB, Lubinsky P, Pyh\"aj\"arvi T, Devengenzo MT, Ellstrand NC, {\bf Ross-Ibarra J} (2013) The genomic signature of crop-wild introgression in maize. \textsc{PLoS Genetics} 9(5): e1003477. 
 
+\item {Pyh\"aj\"arvi T}, {Hufford MB}, {Mezmouk S}, {\bf Ross-Ibarra J} (2013) Complex patterns of local adaptation in teosinte. \textsc{Genome Biology and Evolution} 5: 1594-1609.
 
-\item Fang Z, {\bf Pyh\"aj\"arvi T}, Weber AL, Dawe RK, Glaubitz JC, S\'{a}nchez Gonz\'{a}lez J, {\bf Ross-Ibarra C}, Doebley J, Morrell PL$^\S$, {\bf Ross-Ibarra J}$^\S$  (2012) Megabase-scale inversion polymorphism in the wild ancestor of maize. \textsc{Genetics} 191:883-894 
-
-\item van Heerwaarden J, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, S\'{a}nchez Gonz\'{a}lez JJ, {\bf Ross-Ibarra J} (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. PNAS 108: 1088-1092
+\item {van Heerwaarden J}, Doebley J, Briggs WH, Glaubitz JC, Goodman MM, S\'{a}nchez Gonz\'{a}lez JJ, {\bf Ross-Ibarra J} (2011) Genetic signals of origin, spread and introgression in a large sample of maize landraces. PNAS 108: 1088-1092
 
 \item {\bf Ross-Ibarra J}, Tenaillon M, Gaut BS (2009) Historical divergence and gene flow in the genus Zea.  \textsc{Genetics} 181: 1399-1413.
 
@@ -87,26 +94,24 @@ Profesor de Asignatura & Universidad Nacional Aut\'{o}noma de M\'{e}xico & 2001 
 
 \begin{itemize} \setlength{\itemsep}{0pt} \setlength{\parskip}{2pt} \setlength{\parsep}{0pt}
 
+\item Tiffin P, {\bf Ross-Ibarra J} (2014) Advances and limits of using population genetics to understand local adaptation. \textsc{Trends in Ecology and Evolution} 29:673-680 %Preprint: \url{https://peerj.com/preprints/488/}
 
 \item Hufford MB, Xun X, van Heerwaarden J, Pyh\"aj\"arvi T, Chia J-M, Cartwright RA, Elshire RJ, Glaubitz JC, Guill KE, Kaeppler S, Lai J, Morrell PL, Shannon LM, Song C, Spinger NM, Swanson-Wagner RA, Tiffin P, Wang J, Zhang G, Doebley J, McMullen MD, Ware D, Buckler ES, Yang S, {\bf Ross-Ibarra J} (2012) Comparative population genomics of maize domestication and improvement. \textsc{Nature Genetics} 44:808-811
 
-\item {\bf Hufford MB}, {\bf Bilinski P}, {\bf Pyh\"aj\"arvi T}, {\bf Ross-Ibarra J}$^\S$ (2012) Teosinte as a model system for population and ecological genomics. \textsc{Trends in Genetics} 12:606-615$^\dagger$
-
 \item {\bf Hufford MB}$^\S$, Gepts P, {\bf Ross-Ibarra J} (2011) Influence of cryptic population structure on observed mating patterns in the wild progenitor of maize (\emph{Zea mays} ssp. \emph{parviglumis}).  \textsc{Molecular Ecology} 20: 46-55
 
-\item {\bf van Heerwaarden J}, van Eeuwijk FA, {\bf Ross-Ibarra J} (2010) Genetic diversity in a crop metapopulation.  \textsc{Heredity} 104: 28-39
-
 \item {\bf van Heerwaarden J}, {\bf Ross-Ibarra J}$^\S$, Doebley J, Glaubitz JC, S\'{a}nchez Gonz\'{a}lez J, Gaut BS, Eguiarte LE (2010) Fine scale genetic structure in the wild ancestor of maize (\emph{Zea mays} ssp. \emph{parviglumis}).  \textsc{Molecular Ecology} 19: 1162-1173
+
+\item Gore MA, Chia JM, Elshire RJ, Sun Q, Ersoz ES, Hurwitz BL, Peiffer JA, McMullen MD, Grills GS, {\bf Ross-Ibarra J}, Ware DH, Buckler ES (2009) A first-generation haplotype map of maize.  \textsc{Science 326}: 1115-1117.
 
 \end{itemize}
 
 \section{Synergistic Activities}
 
 \begin{itemize} \setlength{\itemsep}{0pt} \setlength{\parskip}{2pt} \setlength{\parsep}{0pt}
-
-\item DuPont Young Professor, 2012-2014
-
-\item Faculty advisor, Pioneer Hi-Bred graduate student symposium in plant breeding, 2012-2013
+\item Faculty Development Award in recognition of university service, 2015
+\item Editor, G3, PeerJ, Axios Reviews
+\item DuPont Young Professor 2012-2014 and faculty advisor DuPont Pioneer graduate student symposium in plant breeding 2012-present
 
 %\item Scientific Advisory Board, AMAIZING Project ( 30 million to INRA), 2011-present 
 
@@ -114,142 +119,45 @@ Profesor de Asignatura & Universidad Nacional Aut\'{o}noma de M\'{e}xico & 2001 
 
 \item Presidential Early Career Award for Scientists and Engineers 2009
 
-\item Recent peer review: 
-\begin{itemize} 
-\item Journal peer review (last 12 months): \ignore{8/13,10/13} Nature (2), \ignore {1/14, 3/14} Nature Genetics (2), \ignore{6/13,7/13,8/13} PNAS, \ignore{8/13} Current Biology, \ignore{3/13,4/14,4/14} PLoS Genetics (2), \ignore{7/14,7/14} MBE (2), \ignore {3/14} American Naturalist, \ignore{1/14} Molecular Ecology, \ignore{1/14} BMC Genomics, \ignore{9/13} Peerage of Science
-\item Grants: NSF BREAD, BARD, USDA-NIFA, USDA-DOE, UC MEXUS, NWO
-\end{itemize}
+%\item Peer review (last two years): 
+%\ignore{10/13,8/13} Nature (2), \ignore {1/14, 3/14} Nature Genetics (2), \ignore{4/13} PLoS Biology, \ignore{4/14,4/14,8/14,3/13,12/14} PLoS Genetics (6), \ignore{6/13,7/13,8/13,8/13} PNAS (4), \ignore{1/15} eLife, \ignore{8/13} Current Biology, \ignore{7/13} Genome Research, \ignore{7/14,7/14} Molecular Biology \& Evolution (3), \ignore{12/14} Genome Biology \& Evolution, \ignore {3/14} American Naturalist, \ignore{1/14,1/15} Molecular Ecology (2), \ignore{2/15} G3, \ignore{1/14} BMC Genomics, \ignore{10/14} BMC Biology, \ignore{4/13,1/15} PLoS ONE (2), \ignore {3/13} Economic Botany, \ignore{9/13} Peerage of Science, \ignore{7/13} Scientific Reports 
 \end{itemize}
 
+\section{Collaborators and Other Affiliations}
 
-\section{Collaborators \& Other Affiliations}
+\subsubsection*{Collaborators and Co-editors (Total: 56)}
+\emph{Cornell U} Peter Bradbury, Jeffrey Glaubitz, Susan McCouch, Qi Sun, Feng Tian, Sharon Mitchell;
+\emph{USDA-ARS} Edward Buckler, Sarah Hake, James Holland, Sherry Flint-Garcia, Mike McMullen, Doreen Ware, Jode Edwards;
+\emph{U Southern California} Peter Ralph;
+\emph{UC Davis} Alan Bennet, Daniel Runcie, Ed Taylor, Graham Coop, Keith Bradnam, Ian Korf, David Neale, Am\'elie Gaudin;
+\emph{UC Irvine} Kevin Thornton;
+\emph{Carnegie Institute} Davide Sosso;
+\emph{Stanford} Wolf Frommer;
+\emph{LANGEBIO} Ruairidh Sawers;
+\emph{U Georgia} Kelly Dawe;
+\emph{Arizona State} Reed Cartwright;
+\emph{U Missourri} James Birchler, Katherine Guill, David Wills;
+\emph{Beijing Genomics Institute} Song Chi, Xun Xu;
+\emph{U Wisconsin} John Doebley, Jiming Jiang, Shawn Kaeppler;
+\emph{Syngenta} William Briggs;
+\emph{Monsanto} Lisa Kanizay;
+\emph{Dupont Pioneer} Andy Baumgarten, Justin Gerke, Oscar Smith, Tabare Abadie;
+\emph{U Minnesota} Roman Briskine, Peter Morrell, Chad Myers, Nathan Springer, Peter Tiffin;
+\emph{MIT} Mary Gehring; 
+\emph{NC State} Major Goodman; 
+\emph{INRA} Clementine Vitte, Maud Tenaillon; 
+\emph{Brigham Young} Clinton Whipple; 
+\emph{Danforth Center} Anthony Studer; 
+\emph{Universidad de Guadalajara} Jesus S\`anchez Gonz\`alez; 
+\emph{Iowa State} Carolyn Lawrence; 
+\emph{U Hawaii} Gernot Presting; 
+\emph{UC Riverside} Mitchell Provance \\ 
 
-\begin{itemize} \setlength{\itemsep}{0pt} \setlength{\parskip}{2pt} \setlength{\parsep}{0pt}
-\item Please see supplemental document ``Collaborators\_\&\_Other\_Affiliations.pdf"
-\end{itemize}
+\subsubsection*{Graduate Advisors and Postdoctoral Sponsors (Total: 3)}
+\emph{UC Riverside} Norman Ellstrand; \emph{U Georgia} James Hamrick; \emph{UC Irvine} Brandon Gaut 
 
-%\subsection*{Collaborators and Co-Editors}
-%\begin{itemize} \setlength{\itemsep}{0pt} \setlength{\parskip}{2pt} \setlength{\parsep}{0pt}
-%\item See Attached List
-%\end{itemize}
+\subsubsection*{Thesis Advisor and Postgraduate Sponsor (Total: 14)}
+{\bf Postdoctoral:} \emph{Iowa State} Matthew Hufford; \emph{Graduate U Advanced Studies} Shohei Takuno; \emph{U Oulu} Tanja Pyh\"aj\"arvi, \emph{KWS} Sofiane Mezmouk; \emph{Wageningen} Joost van Heerwaarden; \emph{USDA} Tim Beissinger; \emph{UC Davis} Kate Crosby, Sayuri Tsukahara, Simon Renny-Byfield, Jinliang Yang {\bf Graduate:} Dianne Velasco, Paul Bilinski, Anna O'Brien, Michelle Stitzer
 
-%\subsection*{Graduate Advisors and Postdoctoral Sponsors}
-%\begin{itemize} \setlength{\itemsep}{0pt} \setlength{\parskip}{2pt} \setlength{\parsep}{0pt}
-%\item Norman Ellstrand, University of California, Riverside
-%\item James Hamrick, University of Georgia
-%\item Brandon Gaut, University of California, Irvine
-%\end{itemize}
 
-%\subsection*{Thesis Advisor and Postgraduate-Scholar Advisor}
-%\begin{itemize} \setlength{\itemsep}{0pt} \setlength{\parskip}{2pt} \setlength{\parsep}{0pt}
-%\item Joost van Heerwaarden, Wageningen University
-%\item Matthew Hufford, Iowa State University
-%\item Tanja Pyh\"aj\"arvi, University of Oulu
-%\item Shohei Takuno, Graduate University for Advanced Studies
-%\item Sofiane Mezmouk, KWS SAAT AG
-%\item Sayuri Tsukahara, University of California, Davis
-%\item Tim Beissinger, University of California, Davis
-%\item Paul Bilinski, University of California, Davis
-%\item Anna O'Brien, University of California, Davis
-%\item Michelle Stitzer, University of California, Davis
-%\item Dianne Velasco, University of California, Davis
-%\end{itemize}
-
-%\begin{tiny}
-%\begin{tabular}{ l l l l l l l l }
-%{Last Name} & {First Name} & {Nature of Conflict} & {Conflict's Institution}  & {Last Name} & {First Name} & {Nature of Conflict} & {Conflict's Institution}  \\
-%\hline
-%Baack &  Eric & coauthor   & Luther College  & Barrantes &  Gabriel & coauthor   & Universidad de Costa Rica \\ 
-%Barringer &  Brian & coauthor   & Cornell University &
-%Bennett & Alan &    & UC Davis \\ 
-%Bennett &  Michael & coauthor   & Royal Botanic Gardens, Kew &
-%Birchler &  James &    & U. Missouri \\ 
-%Bradbury & Peter & coauthor   & Cornell University &
-%Bradnam & Keith & coauthor & UC Davis \\ 
-%Briggs & William  & coauthor   & Syngenta Seeds &
-%Briskine & Roman & coauthor   & U. Minnesota \\ 
-%Buckler & Edward & coauthor   & USDA-ARS &
-%Burke & John & coauthor   & U. Georgia \\ 
-%Cartwright &  Reed & coauthor   & U. Houston &
-%Chan & Simon & coauthor & UC Davis \\ 
-%Chi & Song & coauthor   & Beijing Genomics Institute &
-%Chia & Jer-Ming & coauthor   & Cold Spring Harbor Laboratory \\ 
-%Cook & Jason & coauthor   & U. Missouri &
-%Dawe & R. Kelly & coauthor   & University of Georgia \\ 
-%Doebley & John & coauthor   & U. Wisconsin &
-%Eckert &  Christopher & coauthor   & Queen's University, Kingston \\ 
-%Eckert & Andrew & coauthor   & UC Davis &
-%Eguiarte & Luis & coauthor   & UNAM \\ 
-%Ellstrand &  Norman & coauthor   & UC Riverside &
-%Elshire & Robert J & coauthor   & Cornell University \\ 
-%Ersoz & Elhan & coauthor   & Syngenta &
-%Flint-Garcia & Sherry & coauthor   & U. Missouri \\ 
-%Fuchs &  Eric & coauthor   & Universidad de Costa Rica &
-%Gaut &  Brandon & coauthor  advisee & UC Irvine \\ 
-%Ge &  Song & coauthor   & Chinese Academy of Sciences &
-%Gepts & Paul & coauthor   & UC Davis \\ 
-%Glaubitz & Jeffrey & coauthor   & Cornell University &
-%Godt &  Mary Jo & coauthor   & University of Georgia \\ 
-%Gonz\`alez-Mart\`inez & Santiago & coauthor   & CIFOR-INIA &
-%Goodman & Major & coauthor   & NC State \\ 
-%Goodwillie & Carol & coauthor   & East Carolina University &
-%Gore & Michael & coauthor   & USDA-ARS, Maricopa, AZ \\ 
-%Grills & George & coauthor   & Cornell University &
-%Guill & Katie & coauthor   & U. Missouri \\ 
-%Hamrick &  James & coauthor  advisee & University of Georgia &
-%Holland & Jim &    & NC State \\ 
-%Hollister &  Jesse & coauthor   & Harvard U. &
-%Hufford & Matthew &  advisee & UC Davis \\ 
-%Hurwitz & Bonnie & coauthor   & Cold Spring Harbor Laboratory &
-%Jiang & Jiming &    & University of Wisconsin, Madison \\ 
-%Kaeppler & Shawn & coauthor   & U. Wisconsin &
-%Kalisz &  Susan & coauthor   & University of Pittsburgh \\ 
-%Korf & Ian & coauthor & UC Davis &
-%Lawrence & Carolyn & coauthor   & USDA-ARS, Ames, IA \\ 
-%Leitch &  Ilia & coauthor   & Royal Botanic Gardens, Kew &
-%May &  Michael & coauthor  advisee & UC Davis \\ 
-%McMullen & Michael & coauthor   & U. Missouri &
-%Melters & Daniel & coauthor & UC Davis \\ 
-%Mezmouk & Sofiane & coauthor  advisee & UC Davis &
-%Morrell &  Peter & coauthor   & U. Minnesota \\ 
-%Myers & Chad & coauthor   & U. Minnesota &
-%Neale & David & coauthor   & UC Davis \\ 
-%Nelson & Dana & coauthor   & Southern Institute of Forest Genetics &
-%Peiffer & Jason & coauthor   & Cornell University \\ 
-%Presting & Gernot G. & coauthor   & University of Hawaii & 
-%Provance &  Mitchel & coauthor   & UC Riverside \\ 
-%Pyh\"aj\"arvi  & Tanja &   advisee & UC Davis &
-%Ronald & Pamela &  & UC Davis \\ 
-%Ross-Ibarra & Jeff & coauthor   & University of California, Davis &
-%S\`anchez Gonz\`alez & Jesus & coauthor   & Universidad de Guadalajara \\ 
-%Sanders &  Andrew & coauthor   & UC Riverside &
-%Sang &  Tao & coauthor   & Michigan State University \\ 
-%Schaeffer & Robert & coauthor   & U. Minnesota &
-%Shannon & Laura & coauthor   & U. Wisconsin \\ 
-%Shi & Jinghua & coauthor   & U. Georgia &
-%Springer & Nathan & coauthor   & U. Minnesota \\ 
-%Studer & Anthony & coauthor   & U. Wisconsin &
-%Sun & Qi & coauthor   & Cornell University \\ 
-%Swanson-Wagner & Ruth & coauthor   & U. Minnesota &
-%Takuno & Shohei & advisee & UC Davis \\ 
-%Tenaillon &  Maud & coauthor   & CNRS, INRA, France & 
-%Tian & Feng & coauthor   & Cornell University \\ 
-%Tiffin & Peter & coauthor   & U. Minnesota &
-%van Euwijk &  Fred & coauthor   & Wageningen University \\
-%van Heerwaarden &  Joost & coauthor  advisee & Wageningen University  &
-%Vitte & Clementine & coauthor   & INRA, France \\
-%Ware & Doreen & coauthor   & Cold Spring Harbor Laboratory &
-%Wegrzyn & Jill & coauthor   & UC Davis \\
-%Whitney &  Kenneth & coauthor   & Rice University &
-%Wolf & Sarah & coauthor   & U. Georgia \\ 
-%Wu &  Zhi-Qiang & coauthor   & Chinese Academy of Sciences &
-%Xu & Xun & coauthor   & Beijing Genomics Institute \\
-%Yang & Shuang & coauthor   & BGI  &
-%Zhang &  Lin-Bin & coauthor   & Chinese Academy of Sciences \\
-%Zhao & Qiong & coauthor   & U. Wisconsin &
-%Zhu & Qihui & coauthor   & University of Georgia \\
-%\hline 
-%\end{tabular}
-
-%\end{tiny}
 \end{document}

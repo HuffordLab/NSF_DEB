@@ -6,6 +6,7 @@
 *.ist
 *.acn
 *.acr
+*.log
 *.alg
 *.bbl
 *.blg
